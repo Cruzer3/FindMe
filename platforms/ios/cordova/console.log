@@ -1,0 +1,992 @@
+2015-06-03 15:24:32.550 FindMe![1541:15662] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/2740A590-4142-43E7-A04E-4EAA5328810C/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:24:32.618 FindMe![1541:15662] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:24:32.618 FindMe![1541:15662] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:24:32.621 FindMe![1541:15662] Unlimited access to network resources
+2015-06-03 15:24:32.707 FindMe![1541:15662] [CDVTimer][keyboard] 0.074029ms
+2015-06-03 15:24:32.733 FindMe![1541:15662] [CDVTimer][splashscreen] 26.011944ms
+2015-06-03 15:24:32.733 FindMe![1541:15662] [CDVTimer][TotalPluginStartup] 26.543975ms
+2015-06-03 15:24:33.005 FindMe![1541:15662] Resetting plugins due to page load.
+2015-06-03 15:24:33.162 FindMe![1541:15662] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/6B65779A-3742-43AB-ABD0-15628FCC4C86/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:27:33.358 FindMe![1698:17470] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A579E4E9-B75D-4EE2-8EAE-CE1B4E298BCF/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:27:33.421 FindMe![1698:17470] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:27:33.422 FindMe![1698:17470] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:27:33.423 FindMe![1698:17470] Unlimited access to network resources
+2015-06-03 15:27:33.498 FindMe![1698:17470] [CDVTimer][keyboard] 0.061989ms
+2015-06-03 15:27:33.526 FindMe![1698:17470] [CDVTimer][splashscreen] 27.975976ms
+2015-06-03 15:27:33.526 FindMe![1698:17470] [CDVTimer][TotalPluginStartup] 28.349042ms
+2015-06-03 15:27:33.587 FindMe![1698:17470] Resetting plugins due to page load.
+2015-06-03 15:27:33.765 FindMe![1698:17470] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C0BC0624-C5C4-4361-9FFA-731C134E0E7F/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:29:51.673 FindMe![1847:18883] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/5F358FD4-2E02-4876-974B-D83ED18C539C/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:29:51.788 FindMe![1847:18883] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:29:51.789 FindMe![1847:18883] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:29:51.793 FindMe![1847:18883] Unlimited access to network resources
+2015-06-03 15:29:51.892 FindMe![1847:18883] [CDVTimer][keyboard] 0.084996ms
+2015-06-03 15:29:51.910 FindMe![1847:18883] [CDVTimer][splashscreen] 17.921984ms
+2015-06-03 15:29:51.910 FindMe![1847:18883] [CDVTimer][TotalPluginStartup] 18.350959ms
+2015-06-03 15:29:51.974 FindMe![1847:18883] Resetting plugins due to page load.
+2015-06-03 15:29:52.141 FindMe![1847:18883] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/65A33876-F6D7-4DB7-8C7D-2C8DE8FB67B1/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:30:35.416 FindMe![1986:19635] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/ECBC6715-CE75-498A-8E60-178ECA4E50D1/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:30:35.538 FindMe![1986:19635] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:30:35.539 FindMe![1986:19635] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:30:35.542 FindMe![1986:19635] Unlimited access to network resources
+2015-06-03 15:30:35.643 FindMe![1986:19635] [CDVTimer][keyboard] 0.068009ms
+2015-06-03 15:30:35.660 FindMe![1986:19635] [CDVTimer][splashscreen] 16.306043ms
+2015-06-03 15:30:35.660 FindMe![1986:19635] [CDVTimer][TotalPluginStartup] 16.846001ms
+2015-06-03 15:30:35.729 FindMe![1986:19635] Resetting plugins due to page load.
+2015-06-03 15:30:35.946 FindMe![1986:19635] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/6940B55C-9505-4D74-BAC4-4E8F112D2552/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:31:37.679 FindMe![2128:20549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/381BE11E-3879-4D8D-8730-3317C93F15B7/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:31:37.753 FindMe![2128:20549] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:31:37.754 FindMe![2128:20549] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:31:37.757 FindMe![2128:20549] Unlimited access to network resources
+2015-06-03 15:31:37.863 FindMe![2128:20549] [CDVTimer][keyboard] 0.061989ms
+2015-06-03 15:31:37.882 FindMe![2128:20549] [CDVTimer][splashscreen] 18.633008ms
+2015-06-03 15:31:37.882 FindMe![2128:20549] [CDVTimer][TotalPluginStartup] 19.034982ms
+2015-06-03 15:31:37.971 FindMe![2128:20549] Resetting plugins due to page load.
+2015-06-03 15:31:38.139 FindMe![2128:20549] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/CD9B8663-1868-404E-BDF8-F584B6AC420F/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:32:27.047 FindMe![2267:21754] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/36157F19-AB6D-431B-819C-74E9AC156EB6/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:32:27.122 FindMe![2267:21754] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:32:27.122 FindMe![2267:21754] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:32:27.124 FindMe![2267:21754] Unlimited access to network resources
+2015-06-03 15:32:27.204 FindMe![2267:21754] [CDVTimer][keyboard] 0.054002ms
+2015-06-03 15:32:27.230 FindMe![2267:21754] [CDVTimer][splashscreen] 25.590003ms
+2015-06-03 15:32:27.230 FindMe![2267:21754] [CDVTimer][TotalPluginStartup] 25.972009ms
+2015-06-03 15:32:27.284 FindMe![2267:21754] Resetting plugins due to page load.
+2015-06-03 15:32:27.458 FindMe![2267:21754] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/ABEBA020-30FB-422F-88A5-67612418374C/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:32:53.410 FindMe![2403:22339] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A2D42535-785F-4797-9BE6-825164DFE69D/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:32:53.493 FindMe![2403:22339] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:32:53.494 FindMe![2403:22339] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:32:53.496 FindMe![2403:22339] Unlimited access to network resources
+2015-06-03 15:32:53.578 FindMe![2403:22339] [CDVTimer][keyboard] 0.106990ms
+2015-06-03 15:32:53.600 FindMe![2403:22339] [CDVTimer][splashscreen] 22.156000ms
+2015-06-03 15:32:53.600 FindMe![2403:22339] [CDVTimer][TotalPluginStartup] 22.704005ms
+2015-06-03 15:32:53.654 FindMe![2403:22339] Resetting plugins due to page load.
+2015-06-03 15:32:53.834 FindMe![2403:22339] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/F852A361-BAB0-496B-8B99-EFEBBE523597/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:36:01.978 FindMe![2559:24238] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6F915223-02CC-41B7-A4A1-F4C428ED7A14/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:36:02.061 FindMe![2559:24238] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:36:02.061 FindMe![2559:24238] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:36:02.064 FindMe![2559:24238] Unlimited access to network resources
+2015-06-03 15:36:02.150 FindMe![2559:24238] [CDVTimer][keyboard] 0.059009ms
+2015-06-03 15:36:02.173 FindMe![2559:24238] [CDVTimer][splashscreen] 22.518039ms
+2015-06-03 15:36:02.173 FindMe![2559:24238] [CDVTimer][TotalPluginStartup] 22.891045ms
+2015-06-03 15:36:02.227 FindMe![2559:24238] Resetting plugins due to page load.
+2015-06-03 15:36:02.391 FindMe![2559:24238] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/8B33293B-355B-4B3B-87AA-53FCBB501354/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:36:48.259 FindMe![2697:25015] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/572B694B-F7D6-44FE-B5AA-D3E99CFA86A8/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:36:48.340 FindMe![2697:25015] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:36:48.340 FindMe![2697:25015] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:36:48.342 FindMe![2697:25015] Unlimited access to network resources
+2015-06-03 15:36:48.430 FindMe![2697:25015] [CDVTimer][keyboard] 0.056982ms
+2015-06-03 15:36:48.455 FindMe![2697:25015] [CDVTimer][splashscreen] 24.289012ms
+2015-06-03 15:36:48.455 FindMe![2697:25015] [CDVTimer][TotalPluginStartup] 24.661005ms
+2015-06-03 15:36:48.507 FindMe![2697:25015] Resetting plugins due to page load.
+2015-06-03 15:36:48.681 FindMe![2697:25015] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/57B3E849-82DB-4EA4-944F-5DD3E76DEC9A/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:46:53.597 FindMe![2903:30073] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/1B71288D-2EEC-41BD-AA36-AB175C233BB4/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:46:53.719 FindMe![2903:30073] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:46:53.719 FindMe![2903:30073] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:46:53.722 FindMe![2903:30073] Unlimited access to network resources
+2015-06-03 15:46:53.826 FindMe![2903:30073] [CDVTimer][keyboard] 0.083029ms
+2015-06-03 15:46:53.843 FindMe![2903:30073] [CDVTimer][splashscreen] 16.834021ms
+2015-06-03 15:46:53.844 FindMe![2903:30073] [CDVTimer][TotalPluginStartup] 17.320991ms
+2015-06-03 15:46:53.903 FindMe![2903:30073] Resetting plugins due to page load.
+2015-06-03 15:46:54.086 FindMe![2903:30073] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/CE1A5AF6-D20A-4748-AA81-C4C377A34740/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:49:11.130 FindMe![3053:31516] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/7C50089C-C7EE-48BC-A8B2-9E21F15DAFC2/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:49:11.256 FindMe![3053:31516] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:49:11.256 FindMe![3053:31516] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:49:11.259 FindMe![3053:31516] Unlimited access to network resources
+2015-06-03 15:49:11.358 FindMe![3053:31516] [CDVTimer][keyboard] 0.069022ms
+2015-06-03 15:49:11.377 FindMe![3053:31516] [CDVTimer][splashscreen] 18.890023ms
+2015-06-03 15:49:11.378 FindMe![3053:31516] [CDVTimer][TotalPluginStartup] 19.432008ms
+2015-06-03 15:49:11.436 FindMe![3053:31516] Resetting plugins due to page load.
+2015-06-03 15:49:11.611 FindMe![3053:31516] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/FB34F218-AF66-4BAF-BD30-69B0E5F99B8D/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 15:49:55.542 FindMe![3190:32161] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/55C02677-9A09-49AD-BC59-BD2EC44F45EF/Library/Cookies/Cookies.binarycookies
+2015-06-03 15:49:55.670 FindMe![3190:32161] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 15:49:55.671 FindMe![3190:32161] Multi-tasking -> Device: YES, App: YES
+2015-06-03 15:49:55.675 FindMe![3190:32161] Unlimited access to network resources
+2015-06-03 15:49:55.779 FindMe![3190:32161] [CDVTimer][keyboard] 0.057995ms
+2015-06-03 15:49:55.793 FindMe![3190:32161] [CDVTimer][splashscreen] 14.720976ms
+2015-06-03 15:49:55.794 FindMe![3190:32161] [CDVTimer][TotalPluginStartup] 15.100956ms
+2015-06-03 15:49:55.869 FindMe![3190:32161] Resetting plugins due to page load.
+2015-06-03 15:49:56.040 FindMe![3190:32161] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/6C5B558A-E8A3-4E22-9AF4-9BFD4BB75E7E/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:04:01.872 FindMe![3441:39795] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/EE16056F-1B65-44DB-998C-9F11133B1055/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:04:01.958 FindMe![3441:39795] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:04:01.958 FindMe![3441:39795] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:04:01.960 FindMe![3441:39795] Unlimited access to network resources
+2015-06-03 16:04:02.046 FindMe![3441:39795] [CDVTimer][keyboard] 0.054955ms
+2015-06-03 16:04:02.068 FindMe![3441:39795] [CDVTimer][splashscreen] 21.764994ms
+2015-06-03 16:04:02.068 FindMe![3441:39795] [CDVTimer][TotalPluginStartup] 22.159994ms
+2015-06-03 16:04:02.124 FindMe![3441:39795] Resetting plugins due to page load.
+2015-06-03 16:04:02.312 FindMe![3441:39795] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9C15C1AD-B114-4021-BCDB-5FD79081B3C5/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:04:26.179 FindMe![3576:40334] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4119B7B8-A217-450A-94F4-5B03B7DCA16B/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:04:26.272 FindMe![3576:40334] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:04:26.273 FindMe![3576:40334] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:04:26.275 FindMe![3576:40334] Unlimited access to network resources
+2015-06-03 16:04:26.362 FindMe![3576:40334] [CDVTimer][keyboard] 0.110030ms
+2015-06-03 16:04:26.382 FindMe![3576:40334] [CDVTimer][splashscreen] 19.546032ms
+2015-06-03 16:04:26.382 FindMe![3576:40334] [CDVTimer][TotalPluginStartup] 20.117998ms
+2015-06-03 16:04:26.437 FindMe![3576:40334] Resetting plugins due to page load.
+2015-06-03 16:04:26.613 FindMe![3576:40334] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A87CC36F-1254-46B0-9723-E4267E29BF13/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:07:22.036 FindMe![3730:42218] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/350252A7-5D84-46E1-A27B-317A2ECC7CB7/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:07:22.122 FindMe![3730:42218] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:07:22.123 FindMe![3730:42218] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:07:22.125 FindMe![3730:42218] Unlimited access to network resources
+2015-06-03 16:07:22.227 FindMe![3730:42218] [CDVTimer][keyboard] 0.096023ms
+2015-06-03 16:07:22.247 FindMe![3730:42218] [CDVTimer][splashscreen] 19.572020ms
+2015-06-03 16:07:22.247 FindMe![3730:42218] [CDVTimer][TotalPluginStartup] 19.993961ms
+2015-06-03 16:07:22.301 FindMe![3730:42218] Resetting plugins due to page load.
+2015-06-03 16:07:22.472 FindMe![3730:42218] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/3FCCC3C2-E739-4556-861E-C0A7FD3F91B6/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:07:52.921 FindMe![3866:42816] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/3AC31083-EF3C-49C6-A9E3-4DAFDAD5F656/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:07:53.047 FindMe![3866:42816] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:07:53.047 FindMe![3866:42816] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:07:53.050 FindMe![3866:42816] Unlimited access to network resources
+2015-06-03 16:07:53.141 FindMe![3866:42816] [CDVTimer][keyboard] 0.090003ms
+2015-06-03 16:07:53.158 FindMe![3866:42816] [CDVTimer][splashscreen] 16.522050ms
+2015-06-03 16:07:53.158 FindMe![3866:42816] [CDVTimer][TotalPluginStartup] 17.073035ms
+2015-06-03 16:07:53.219 FindMe![3866:42816] Resetting plugins due to page load.
+2015-06-03 16:07:53.393 FindMe![3866:42816] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/43F3986B-AEDE-42CD-AE82-4E5C43F2C5F7/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:08:45.252 FindMe![4005:43602] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/27BD6802-9AD7-4B20-84A1-1F77EEBBC59D/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:08:45.342 FindMe![4005:43602] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:08:45.342 FindMe![4005:43602] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:08:45.344 FindMe![4005:43602] Unlimited access to network resources
+2015-06-03 16:08:45.450 FindMe![4005:43602] [CDVTimer][keyboard] 0.082016ms
+2015-06-03 16:08:45.467 FindMe![4005:43602] [CDVTimer][splashscreen] 17.607987ms
+2015-06-03 16:08:45.468 FindMe![4005:43602] [CDVTimer][TotalPluginStartup] 18.099010ms
+2015-06-03 16:08:45.521 FindMe![4005:43602] Resetting plugins due to page load.
+2015-06-03 16:08:45.712 FindMe![4005:43602] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/15A8729C-3C13-457D-AB58-CF66E1729BD9/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:11:35.222 FindMe![4161:45486] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/5ED8A2D7-7616-4A83-9736-F11C835BB1F0/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:11:35.354 FindMe![4161:45486] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:11:35.354 FindMe![4161:45486] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:11:35.358 FindMe![4161:45486] Unlimited access to network resources
+2015-06-03 16:11:35.455 FindMe![4161:45486] [CDVTimer][keyboard] 0.069022ms
+2015-06-03 16:11:35.471 FindMe![4161:45486] [CDVTimer][splashscreen] 16.204000ms
+2015-06-03 16:11:35.472 FindMe![4161:45486] [CDVTimer][TotalPluginStartup] 16.624987ms
+2015-06-03 16:11:35.531 FindMe![4161:45486] Resetting plugins due to page load.
+2015-06-03 16:11:35.707 FindMe![4161:45486] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/0DBA65D4-2609-4C2A-8F40-71BC03C53845/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:12:15.860 FindMe![4298:46223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/C19A3AF3-EB06-4F75-B044-6775133BCDAC/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:12:15.990 FindMe![4298:46223] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:12:15.990 FindMe![4298:46223] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:12:15.994 FindMe![4298:46223] Unlimited access to network resources
+2015-06-03 16:12:16.096 FindMe![4298:46223] [CDVTimer][keyboard] 0.054002ms
+2015-06-03 16:12:16.112 FindMe![4298:46223] [CDVTimer][splashscreen] 15.274942ms
+2015-06-03 16:12:16.112 FindMe![4298:46223] [CDVTimer][TotalPluginStartup] 15.690982ms
+2015-06-03 16:12:16.172 FindMe![4298:46223] Resetting plugins due to page load.
+2015-06-03 16:12:16.347 FindMe![4298:46223] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/744A0366-4931-4AD2-9784-53A0A06609BE/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:12:48.401 FindMe![4434:46833] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/06CB7C16-FA25-41B9-ADC3-3A75576D87D0/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:12:48.482 FindMe![4434:46833] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:12:48.482 FindMe![4434:46833] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:12:48.486 FindMe![4434:46833] Unlimited access to network resources
+2015-06-03 16:12:48.588 FindMe![4434:46833] [CDVTimer][keyboard] 0.065982ms
+2015-06-03 16:12:48.602 FindMe![4434:46833] [CDVTimer][splashscreen] 13.476968ms
+2015-06-03 16:12:48.602 FindMe![4434:46833] [CDVTimer][TotalPluginStartup] 13.861954ms
+2015-06-03 16:12:48.652 FindMe![4434:46833] Resetting plugins due to page load.
+2015-06-03 16:12:48.821 FindMe![4434:46833] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/812583F4-6308-4E82-AD83-F2A76A558942/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:13:20.203 FindMe![4571:47462] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/671F9121-563A-4045-94A5-2888447E897C/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:13:20.314 FindMe![4571:47462] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:13:20.315 FindMe![4571:47462] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:13:20.318 FindMe![4571:47462] Unlimited access to network resources
+2015-06-03 16:13:20.422 FindMe![4571:47462] [CDVTimer][keyboard] 0.067949ms
+2015-06-03 16:13:20.442 FindMe![4571:47462] [CDVTimer][splashscreen] 19.872010ms
+2015-06-03 16:13:20.442 FindMe![4571:47462] [CDVTimer][TotalPluginStartup] 20.349979ms
+2015-06-03 16:13:20.513 FindMe![4571:47462] Resetting plugins due to page load.
+2015-06-03 16:13:20.693 FindMe![4571:47462] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9EED0E46-D76F-401E-AB7A-99125DED4450/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:14:27.318 FindMe![4710:48375] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/49177770-DD0E-4C90-8D59-6FF5D85EDAE4/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:14:27.431 FindMe![4710:48375] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:14:27.431 FindMe![4710:48375] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:14:27.434 FindMe![4710:48375] Unlimited access to network resources
+2015-06-03 16:14:27.530 FindMe![4710:48375] [CDVTimer][keyboard] 0.061989ms
+2015-06-03 16:14:27.546 FindMe![4710:48375] [CDVTimer][splashscreen] 15.964985ms
+2015-06-03 16:14:27.546 FindMe![4710:48375] [CDVTimer][TotalPluginStartup] 16.375005ms
+2015-06-03 16:14:27.603 FindMe![4710:48375] Resetting plugins due to page load.
+2015-06-03 16:14:27.786 FindMe![4710:48375] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C23747C5-BEDF-48FB-A98A-83D98E8E64EA/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:14:57.688 FindMe![4846:48950] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6393AAA0-D097-4A3B-8DB1-0437F3EC232C/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:14:57.810 FindMe![4846:48950] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:14:57.810 FindMe![4846:48950] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:14:57.813 FindMe![4846:48950] Unlimited access to network resources
+2015-06-03 16:14:57.912 FindMe![4846:48950] [CDVTimer][keyboard] 0.059009ms
+2015-06-03 16:14:57.938 FindMe![4846:48950] [CDVTimer][splashscreen] 26.628017ms
+2015-06-03 16:14:57.939 FindMe![4846:48950] [CDVTimer][TotalPluginStartup] 27.092993ms
+2015-06-03 16:14:58.019 FindMe![4846:48950] Resetting plugins due to page load.
+2015-06-03 16:14:58.211 FindMe![4846:48950] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/19F46B4E-A97C-41A2-8B43-E509C048E944/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:15:38.773 FindMe![4986:49642] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B7D74AB8-33EB-4B0E-A37E-27F5B8DF59BE/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:15:38.928 FindMe![4986:49642] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:15:38.929 FindMe![4986:49642] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:15:38.932 FindMe![4986:49642] Unlimited access to network resources
+2015-06-03 16:15:39.029 FindMe![4986:49642] [CDVTimer][keyboard] 0.059009ms
+2015-06-03 16:15:39.047 FindMe![4986:49642] [CDVTimer][splashscreen] 17.601013ms
+2015-06-03 16:15:39.047 FindMe![4986:49642] [CDVTimer][TotalPluginStartup] 17.982960ms
+2015-06-03 16:15:39.122 FindMe![4986:49642] Resetting plugins due to page load.
+2015-06-03 16:15:39.298 FindMe![4986:49642] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/2F4721C5-BC18-4DF5-91BA-396C6F5F195F/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:18:12.800 FindMe![5142:51393] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/7952DE5E-43DC-43DF-A58D-CCEFC8781EE9/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:18:12.907 FindMe![5142:51393] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:18:12.907 FindMe![5142:51393] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:18:12.909 FindMe![5142:51393] Unlimited access to network resources
+2015-06-03 16:18:13.003 FindMe![5142:51393] [CDVTimer][keyboard] 0.070989ms
+2015-06-03 16:18:13.020 FindMe![5142:51393] [CDVTimer][splashscreen] 16.569972ms
+2015-06-03 16:18:13.020 FindMe![5142:51393] [CDVTimer][TotalPluginStartup] 17.005980ms
+2015-06-03 16:18:13.071 FindMe![5142:51393] Resetting plugins due to page load.
+2015-06-03 16:18:13.249 FindMe![5142:51393] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/FBB805A6-620E-4016-B623-4DEC2348CD4A/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 16:18:48.887 FindMe![5279:51968] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B109642D-BADD-40A5-AA7D-48FBDD38D6DA/Library/Cookies/Cookies.binarycookies
+2015-06-03 16:18:48.985 FindMe![5279:51968] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-03 16:18:48.986 FindMe![5279:51968] Multi-tasking -> Device: YES, App: YES
+2015-06-03 16:18:48.989 FindMe![5279:51968] Unlimited access to network resources
+2015-06-03 16:18:49.100 FindMe![5279:51968] [CDVTimer][keyboard] 0.066996ms
+2015-06-03 16:18:49.114 FindMe![5279:51968] [CDVTimer][splashscreen] 13.788044ms
+2015-06-03 16:18:49.114 FindMe![5279:51968] [CDVTimer][TotalPluginStartup] 14.186978ms
+2015-06-03 16:18:49.174 FindMe![5279:51968] Resetting plugins due to page load.
+2015-06-03 16:18:49.346 FindMe![5279:51968] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/8D0B3BF5-2865-4BAE-874E-39689B95FE33/FindMe!.app/www/index.html#/tab/dash
+2015-06-03 18:02:03.101 FindMe![5279:1578484] Terminating since there is no system app.
+2015-06-17 14:20:36.088 FindMe![8335:7068001] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6F272758-E01F-4902-A0D5-AE9D09617D12/Library/Cookies/Cookies.binarycookies
+2015-06-17 14:20:36.344 FindMe![8335:7068001] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 14:20:36.344 FindMe![8335:7068001] Multi-tasking -> Device: YES, App: YES
+2015-06-17 14:20:36.358 FindMe![8335:7068001] Unlimited access to network resources
+2015-06-17 14:20:36.676 FindMe![8335:7068001] [CDVTimer][keyboard] 0.068963ms
+2015-06-17 14:20:36.842 FindMe![8335:7068001] [CDVTimer][splashscreen] 166.269004ms
+2015-06-17 14:20:36.842 FindMe![8335:7068001] [CDVTimer][TotalPluginStartup] 167.107046ms
+2015-06-17 14:20:36.987 FindMe![8335:7068001] Resetting plugins due to page load.
+2015-06-17 14:20:37.263 FindMe![8335:7068001] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C7BD9CAD-1E66-4436-8811-0A699CFEE9A8/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 14:51:35.592 FindMe![8746:7088782] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/39F0ED97-B30E-4006-B299-41AADD548E68/Library/Cookies/Cookies.binarycookies
+2015-06-17 14:51:35.662 FindMe![8746:7088782] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 14:51:35.662 FindMe![8746:7088782] Multi-tasking -> Device: YES, App: YES
+2015-06-17 14:51:35.664 FindMe![8746:7088782] Unlimited access to network resources
+2015-06-17 14:51:35.749 FindMe![8746:7088782] [CDVTimer][keyboard] 0.064969ms
+2015-06-17 14:51:35.780 FindMe![8746:7088782] [CDVTimer][splashscreen] 30.656993ms
+2015-06-17 14:51:35.780 FindMe![8746:7088782] [CDVTimer][TotalPluginStartup] 31.062961ms
+2015-06-17 14:51:35.854 FindMe![8746:7088782] Resetting plugins due to page load.
+2015-06-17 14:51:36.030 FindMe![8746:7088782] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/8D06DB9D-7086-4267-9915-D0267296CF02/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:05:08.948 FindMe![8971:7096490] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/99513240-04C8-4935-A4ED-20D20126C66C/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:05:09.013 FindMe![8971:7096490] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:05:09.014 FindMe![8971:7096490] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:05:09.016 FindMe![8971:7096490] Unlimited access to network resources
+2015-06-17 15:05:09.139 FindMe![8971:7096490] [CDVTimer][keyboard] 0.054002ms
+2015-06-17 15:05:09.165 FindMe![8971:7096490] [CDVTimer][splashscreen] 25.529981ms
+2015-06-17 15:05:09.165 FindMe![8971:7096490] [CDVTimer][TotalPluginStartup] 25.900006ms
+2015-06-17 15:05:09.226 FindMe![8971:7096490] Resetting plugins due to page load.
+2015-06-17 15:05:09.428 FindMe![8971:7096490] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/2CDF31D3-23EE-40BA-86DE-9500C542041E/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:05:29.893 FindMe![9106:7097033] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/757BFBC2-5088-4097-8B14-C2EFA2843CBF/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:05:29.954 FindMe![9106:7097033] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:05:29.954 FindMe![9106:7097033] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:05:29.956 FindMe![9106:7097033] Unlimited access to network resources
+2015-06-17 15:05:30.038 FindMe![9106:7097033] [CDVTimer][keyboard] 0.059009ms
+2015-06-17 15:05:30.055 FindMe![9106:7097033] [CDVTimer][splashscreen] 16.530037ms
+2015-06-17 15:05:30.055 FindMe![9106:7097033] [CDVTimer][TotalPluginStartup] 16.954958ms
+2015-06-17 15:05:30.101 FindMe![9106:7097033] Resetting plugins due to page load.
+2015-06-17 15:05:30.283 FindMe![9106:7097033] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/71184FD0-8677-4328-A21F-3BEFEF082E8C/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:06:06.109 FindMe![9242:7097685] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/68820EA8-E2E9-47E5-BB11-50444A592EA4/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:06:06.186 FindMe![9242:7097685] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:06:06.187 FindMe![9242:7097685] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:06:06.189 FindMe![9242:7097685] Unlimited access to network resources
+2015-06-17 15:06:06.275 FindMe![9242:7097685] [CDVTimer][keyboard] 0.055969ms
+2015-06-17 15:06:06.296 FindMe![9242:7097685] [CDVTimer][splashscreen] 21.090984ms
+2015-06-17 15:06:06.296 FindMe![9242:7097685] [CDVTimer][TotalPluginStartup] 21.463990ms
+2015-06-17 15:06:06.358 FindMe![9242:7097685] Resetting plugins due to page load.
+2015-06-17 15:06:06.534 FindMe![9242:7097685] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/ABF000EA-90F9-4A7C-908C-577AECA42DF4/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:08:37.168 FindMe![9402:7100017] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B858E9F8-C01E-48DD-BA21-B614535534F0/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:08:37.231 FindMe![9402:7100017] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:08:37.231 FindMe![9402:7100017] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:08:37.234 FindMe![9402:7100017] Unlimited access to network resources
+2015-06-17 15:08:37.316 FindMe![9402:7100017] [CDVTimer][keyboard] 0.059009ms
+2015-06-17 15:08:37.339 FindMe![9402:7100017] [CDVTimer][splashscreen] 22.642970ms
+2015-06-17 15:08:37.339 FindMe![9402:7100017] [CDVTimer][TotalPluginStartup] 23.016989ms
+2015-06-17 15:08:37.399 FindMe![9402:7100017] Resetting plugins due to page load.
+2015-06-17 15:08:37.584 FindMe![9402:7100017] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/AA81E902-57D0-4C97-B8BF-2E578BE77814/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:09:28.722 FindMe![9541:7101096] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/AE0FC469-0781-45D5-9475-6C9B282539C8/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:09:28.791 FindMe![9541:7101096] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:09:28.791 FindMe![9541:7101096] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:09:28.793 FindMe![9541:7101096] Unlimited access to network resources
+2015-06-17 15:09:28.875 FindMe![9541:7101096] [CDVTimer][keyboard] 0.056982ms
+2015-06-17 15:09:28.897 FindMe![9541:7101096] [CDVTimer][splashscreen] 21.570027ms
+2015-06-17 15:09:28.897 FindMe![9541:7101096] [CDVTimer][TotalPluginStartup] 21.945000ms
+2015-06-17 15:09:28.959 FindMe![9541:7101096] Resetting plugins due to page load.
+2015-06-17 15:09:29.164 FindMe![9541:7101096] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/1AEF1C7F-D94A-48F2-9A0E-087239E942F4/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:18:40.235 FindMe![9751:7107589] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/3AC6C085-3E78-4ECD-8477-4CB78F76503B/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:18:40.311 FindMe![9751:7107589] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:18:40.312 FindMe![9751:7107589] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:18:40.313 FindMe![9751:7107589] Unlimited access to network resources
+2015-06-17 15:18:40.395 FindMe![9751:7107589] [CDVTimer][keyboard] 0.092983ms
+2015-06-17 15:18:40.416 FindMe![9751:7107589] [CDVTimer][splashscreen] 20.623028ms
+2015-06-17 15:18:40.416 FindMe![9751:7107589] [CDVTimer][TotalPluginStartup] 21.102011ms
+2015-06-17 15:18:40.471 FindMe![9751:7107589] Resetting plugins due to page load.
+2015-06-17 15:18:40.649 FindMe![9751:7107589] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/026A6C84-3223-4BB8-8A63-1EC23813FF26/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:30:16.463 FindMe![9959:7112529] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/27851457-1D87-4E3E-AB6E-C58D425C9E03/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:30:16.558 FindMe![9959:7112529] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:30:16.559 FindMe![9959:7112529] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:30:16.562 FindMe![9959:7112529] Unlimited access to network resources
+2015-06-17 15:30:16.642 FindMe![9959:7112529] [CDVTimer][keyboard] 0.057995ms
+2015-06-17 15:30:16.661 FindMe![9959:7112529] [CDVTimer][splashscreen] 18.510997ms
+2015-06-17 15:30:16.661 FindMe![9959:7112529] [CDVTimer][TotalPluginStartup] 18.889010ms
+2015-06-17 15:30:16.714 FindMe![9959:7112529] Resetting plugins due to page load.
+2015-06-17 15:30:16.918 FindMe![9959:7112529] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/BFFF7EFC-A1AE-47FD-985A-7D5AC9700358/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:31:26.643 FindMe![10099:7113433] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/BAA3752E-E6FF-403C-9134-1F03A7619942/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:31:26.725 FindMe![10099:7113433] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:31:26.725 FindMe![10099:7113433] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:31:26.728 FindMe![10099:7113433] Unlimited access to network resources
+2015-06-17 15:31:26.829 FindMe![10099:7113433] [CDVTimer][keyboard] 0.074983ms
+2015-06-17 15:31:26.847 FindMe![10099:7113433] [CDVTimer][splashscreen] 17.609000ms
+2015-06-17 15:31:26.847 FindMe![10099:7113433] [CDVTimer][TotalPluginStartup] 18.041968ms
+2015-06-17 15:31:26.909 FindMe![10099:7113433] Resetting plugins due to page load.
+2015-06-17 15:31:27.083 FindMe![10099:7113433] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/5D917412-DADE-43E2-B40A-D0876B286D12/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:31:38.617 FindMe![10234:7113852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6E3C9C07-F255-413B-973B-B1929909462F/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:31:38.738 FindMe![10234:7113852] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:31:38.738 FindMe![10234:7113852] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:31:38.740 FindMe![10234:7113852] Unlimited access to network resources
+2015-06-17 15:31:38.824 FindMe![10234:7113852] [CDVTimer][keyboard] 0.054955ms
+2015-06-17 15:31:38.847 FindMe![10234:7113852] [CDVTimer][splashscreen] 22.899985ms
+2015-06-17 15:31:38.847 FindMe![10234:7113852] [CDVTimer][TotalPluginStartup] 23.279011ms
+2015-06-17 15:31:38.900 FindMe![10234:7113852] Resetting plugins due to page load.
+2015-06-17 15:31:39.081 FindMe![10234:7113852] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C68B299D-AF20-472E-9308-391CF1A09211/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:32:19.213 FindMe![10375:7114538] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/BB64913D-CF02-4885-8F73-F564C73AB6AB/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:32:19.296 FindMe![10375:7114538] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:32:19.297 FindMe![10375:7114538] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:32:19.299 FindMe![10375:7114538] Unlimited access to network resources
+2015-06-17 15:32:19.397 FindMe![10375:7114538] [CDVTimer][keyboard] 0.056028ms
+2015-06-17 15:32:19.419 FindMe![10375:7114538] [CDVTimer][splashscreen] 22.063971ms
+2015-06-17 15:32:19.419 FindMe![10375:7114538] [CDVTimer][TotalPluginStartup] 22.433996ms
+2015-06-17 15:32:19.472 FindMe![10375:7114538] Resetting plugins due to page load.
+2015-06-17 15:32:19.647 FindMe![10375:7114538] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/E53640BD-2044-4E2F-8EC5-D706A2057813/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:32:36.698 FindMe![10510:7115045] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/0AC8EE4E-9655-4BF4-BCFC-B025B1EBE844/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:32:36.772 FindMe![10510:7115045] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:32:36.772 FindMe![10510:7115045] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:32:36.775 FindMe![10510:7115045] Unlimited access to network resources
+2015-06-17 15:32:36.859 FindMe![10510:7115045] [CDVTimer][keyboard] 0.057995ms
+2015-06-17 15:32:36.880 FindMe![10510:7115045] [CDVTimer][splashscreen] 21.056950ms
+2015-06-17 15:32:36.880 FindMe![10510:7115045] [CDVTimer][TotalPluginStartup] 21.441996ms
+2015-06-17 15:32:36.931 FindMe![10510:7115045] Resetting plugins due to page load.
+2015-06-17 15:32:37.113 FindMe![10510:7115045] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/F5F94588-A93B-4329-A078-C1B1E596CA34/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:37:13.611 FindMe![10673:7117275] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/331B998D-81FB-4E71-82CB-56E6EC682E3E/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:37:13.693 FindMe![10673:7117275] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:37:13.693 FindMe![10673:7117275] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:37:13.696 FindMe![10673:7117275] Unlimited access to network resources
+2015-06-17 15:37:13.816 FindMe![10673:7117275] [CDVTimer][keyboard] 0.090957ms
+2015-06-17 15:37:13.835 FindMe![10673:7117275] [CDVTimer][splashscreen] 18.453956ms
+2015-06-17 15:37:13.835 FindMe![10673:7117275] [CDVTimer][TotalPluginStartup] 19.017041ms
+2015-06-17 15:37:13.909 FindMe![10673:7117275] Resetting plugins due to page load.
+2015-06-17 15:37:14.091 FindMe![10673:7117275] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/3027D645-2493-4ED6-9EA6-287190B513CA/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:46:07.084 FindMe![10866:7121804] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/3EA6013E-F2CF-46F7-B635-7F3D01B165B5/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:46:07.175 FindMe![10866:7121804] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:46:07.175 FindMe![10866:7121804] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:46:07.177 FindMe![10866:7121804] Unlimited access to network resources
+2015-06-17 15:46:07.283 FindMe![10866:7121804] [CDVTimer][keyboard] 0.066042ms
+2015-06-17 15:46:07.303 FindMe![10866:7121804] [CDVTimer][splashscreen] 20.071030ms
+2015-06-17 15:46:07.303 FindMe![10866:7121804] [CDVTimer][TotalPluginStartup] 20.476997ms
+2015-06-17 15:46:07.360 FindMe![10866:7121804] Resetting plugins due to page load.
+2015-06-17 15:46:07.580 FindMe![10866:7121804] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/75B67466-0F57-4CCB-9A46-E8B31A1C8FDE/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:46:46.652 FindMe![11004:7122487] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B71B08F6-5F0F-4525-8FFF-1D4BB59D188F/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:46:46.757 FindMe![11004:7122487] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:46:46.757 FindMe![11004:7122487] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:46:46.761 FindMe![11004:7122487] Unlimited access to network resources
+2015-06-17 15:46:46.867 FindMe![11004:7122487] [CDVTimer][keyboard] 0.117004ms
+2015-06-17 15:46:46.884 FindMe![11004:7122487] [CDVTimer][splashscreen] 16.166031ms
+2015-06-17 15:46:46.884 FindMe![11004:7122487] [CDVTimer][TotalPluginStartup] 16.745985ms
+2015-06-17 15:46:46.950 FindMe![11004:7122487] Resetting plugins due to page load.
+2015-06-17 15:46:47.141 FindMe![11004:7122487] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/FBEC94C0-A0AD-456F-AAC9-0A2034599A5A/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:48:05.006 FindMe![11147:7123495] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6F5D6F0F-A547-4075-A6E7-9419C037FDE8/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:48:05.130 FindMe![11147:7123495] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:48:05.131 FindMe![11147:7123495] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:48:05.134 FindMe![11147:7123495] Unlimited access to network resources
+2015-06-17 15:48:05.251 FindMe![11147:7123495] [CDVTimer][keyboard] 0.064969ms
+2015-06-17 15:48:05.267 FindMe![11147:7123495] [CDVTimer][splashscreen] 15.730023ms
+2015-06-17 15:48:05.267 FindMe![11147:7123495] [CDVTimer][TotalPluginStartup] 16.131043ms
+2015-06-17 15:48:05.344 FindMe![11147:7123495] Resetting plugins due to page load.
+2015-06-17 15:48:05.532 FindMe![11147:7123495] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/1455D8F9-E8ED-4C0A-94B9-634023B88AAF/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:49:10.466 FindMe![11288:7124330] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/D0C20C0A-6A29-4BA0-BA13-FF5B3A35DD81/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:49:10.605 FindMe![11288:7124330] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:49:10.606 FindMe![11288:7124330] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:49:10.610 FindMe![11288:7124330] Unlimited access to network resources
+2015-06-17 15:49:10.707 FindMe![11288:7124330] [CDVTimer][keyboard] 0.061035ms
+2015-06-17 15:49:10.724 FindMe![11288:7124330] [CDVTimer][splashscreen] 16.673982ms
+2015-06-17 15:49:10.724 FindMe![11288:7124330] [CDVTimer][TotalPluginStartup] 17.090023ms
+2015-06-17 15:49:10.822 FindMe![11288:7124330] Resetting plugins due to page load.
+2015-06-17 15:49:11.019 FindMe![11288:7124330] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9865E48C-B723-4CC1-82DB-E442DEE29EE2/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:49:37.612 FindMe![11425:7124966] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/088502C8-42A4-44A2-84E0-324CC6224EDB/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:49:37.743 FindMe![11425:7124966] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:49:37.743 FindMe![11425:7124966] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:49:37.745 FindMe![11425:7124966] Unlimited access to network resources
+2015-06-17 15:49:37.849 FindMe![11425:7124966] [CDVTimer][keyboard] 0.150979ms
+2015-06-17 15:49:37.869 FindMe![11425:7124966] [CDVTimer][splashscreen] 20.232022ms
+2015-06-17 15:49:37.870 FindMe![11425:7124966] [CDVTimer][TotalPluginStartup] 21.048009ms
+2015-06-17 15:49:37.936 FindMe![11425:7124966] Resetting plugins due to page load.
+2015-06-17 15:49:38.110 FindMe![11425:7124966] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/715290DC-68A9-48AA-B263-D72B9AF737C5/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:50:44.309 FindMe![11565:7125862] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A75F1CDA-8DF1-4362-A19C-40DDD2CB2E68/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:50:44.391 FindMe![11565:7125862] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:50:44.391 FindMe![11565:7125862] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:50:44.394 FindMe![11565:7125862] Unlimited access to network resources
+2015-06-17 15:50:44.520 FindMe![11565:7125862] [CDVTimer][keyboard] 0.065982ms
+2015-06-17 15:50:44.536 FindMe![11565:7125862] [CDVTimer][splashscreen] 15.811026ms
+2015-06-17 15:50:44.536 FindMe![11565:7125862] [CDVTimer][TotalPluginStartup] 16.191006ms
+2015-06-17 15:50:44.616 FindMe![11565:7125862] Resetting plugins due to page load.
+2015-06-17 15:50:44.804 FindMe![11565:7125862] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/F377AFB2-F6ED-494B-B98C-54F849E6AEC2/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:53:34.131 FindMe![11717:7127474] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A20FA49B-DA5A-4D13-A58F-D47946597261/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:53:34.255 FindMe![11717:7127474] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:53:34.255 FindMe![11717:7127474] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:53:34.258 FindMe![11717:7127474] Unlimited access to network resources
+2015-06-17 15:53:34.361 FindMe![11717:7127474] [CDVTimer][keyboard] 0.064015ms
+2015-06-17 15:53:34.376 FindMe![11717:7127474] [CDVTimer][splashscreen] 15.416980ms
+2015-06-17 15:53:34.376 FindMe![11717:7127474] [CDVTimer][TotalPluginStartup] 15.856981ms
+2015-06-17 15:53:34.434 FindMe![11717:7127474] Resetting plugins due to page load.
+2015-06-17 15:53:34.625 FindMe![11717:7127474] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/33CDCE4C-4D66-422F-A9F8-5E9A6B42FD95/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 15:56:47.063 FindMe![11898:7129919] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/CC82B2E3-25AF-44FC-9411-57D662A590E7/Library/Cookies/Cookies.binarycookies
+2015-06-17 15:56:47.151 FindMe![11898:7129919] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 15:56:47.151 FindMe![11898:7129919] Multi-tasking -> Device: YES, App: YES
+2015-06-17 15:56:47.153 FindMe![11898:7129919] Unlimited access to network resources
+2015-06-17 15:56:47.255 FindMe![11898:7129919] [CDVTimer][keyboard] 0.082970ms
+2015-06-17 15:56:47.283 FindMe![11898:7129919] [CDVTimer][splashscreen] 27.417958ms
+2015-06-17 15:56:47.283 FindMe![11898:7129919] [CDVTimer][TotalPluginStartup] 27.873993ms
+2015-06-17 15:56:47.333 FindMe![11898:7129919] Resetting plugins due to page load.
+2015-06-17 15:56:47.501 FindMe![11898:7129919] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A51B5C5B-5DE1-4277-9041-CDC16A4F7977/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:04:29.167 FindMe![12255:7136397] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/38DD2AD8-AACE-4D84-BACA-DA5ABCBCBB36/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:04:29.295 FindMe![12255:7136397] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:04:29.296 FindMe![12255:7136397] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:04:29.299 FindMe![12255:7136397] Unlimited access to network resources
+2015-06-17 16:04:29.392 FindMe![12255:7136397] [CDVTimer][keyboard] 0.055015ms
+2015-06-17 16:04:29.410 FindMe![12255:7136397] [CDVTimer][splashscreen] 17.659962ms
+2015-06-17 16:04:29.410 FindMe![12255:7136397] [CDVTimer][TotalPluginStartup] 18.058002ms
+2015-06-17 16:04:29.467 FindMe![12255:7136397] Resetting plugins due to page load.
+2015-06-17 16:04:29.648 FindMe![12255:7136397] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/5F88299D-EE23-4764-86C9-A6035BAA132B/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:05:05.906 FindMe![12394:7137189] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/102DA3E7-71AD-43A6-B29F-419D481E289F/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:05:05.992 FindMe![12394:7137189] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:05:05.993 FindMe![12394:7137189] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:05:05.995 FindMe![12394:7137189] Unlimited access to network resources
+2015-06-17 16:05:06.087 FindMe![12394:7137189] [CDVTimer][keyboard] 0.113010ms
+2015-06-17 16:05:06.104 FindMe![12394:7137189] [CDVTimer][splashscreen] 17.075002ms
+2015-06-17 16:05:06.104 FindMe![12394:7137189] [CDVTimer][TotalPluginStartup] 17.639995ms
+2015-06-17 16:05:06.165 FindMe![12394:7137189] Resetting plugins due to page load.
+2015-06-17 16:05:06.330 FindMe![12394:7137189] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/5691005B-4DD4-4194-A865-31DFED585A67/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:09:43.807 FindMe![12580:7140721] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/F9982468-74B0-46AC-B752-6241C0C14F51/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:09:43.915 FindMe![12580:7140721] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:09:43.916 FindMe![12580:7140721] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:09:43.919 FindMe![12580:7140721] Unlimited access to network resources
+2015-06-17 16:09:44.023 FindMe![12580:7140721] [CDVTimer][keyboard] 0.057042ms
+2015-06-17 16:09:44.040 FindMe![12580:7140721] [CDVTimer][splashscreen] 17.692983ms
+2015-06-17 16:09:44.041 FindMe![12580:7140721] [CDVTimer][TotalPluginStartup] 18.074989ms
+2015-06-17 16:09:44.092 FindMe![12580:7140721] Resetting plugins due to page load.
+2015-06-17 16:09:44.287 FindMe![12580:7140721] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/46B23A5A-8B87-4706-9976-E65EB770F6C5/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:10:59.448 FindMe![12724:7141706] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/EE0D9999-E8C7-4422-8EA6-0F255F901599/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:10:59.578 FindMe![12724:7141706] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:10:59.579 FindMe![12724:7141706] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:10:59.583 FindMe![12724:7141706] Unlimited access to network resources
+2015-06-17 16:10:59.696 FindMe![12724:7141706] [CDVTimer][keyboard] 0.081003ms
+2015-06-17 16:10:59.713 FindMe![12724:7141706] [CDVTimer][splashscreen] 16.861022ms
+2015-06-17 16:10:59.714 FindMe![12724:7141706] [CDVTimer][TotalPluginStartup] 17.367005ms
+2015-06-17 16:10:59.774 FindMe![12724:7141706] Resetting plugins due to page load.
+2015-06-17 16:10:59.959 FindMe![12724:7141706] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A8D68535-F641-41D4-AAA7-7209E9FBA16C/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:11:42.192 FindMe![12865:7142527] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4942C4A0-E9C6-4180-87C3-F279A7A154C5/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:11:42.293 FindMe![12865:7142527] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:11:42.293 FindMe![12865:7142527] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:11:42.295 FindMe![12865:7142527] Unlimited access to network resources
+2015-06-17 16:11:42.398 FindMe![12865:7142527] [CDVTimer][keyboard] 0.055015ms
+2015-06-17 16:11:42.414 FindMe![12865:7142527] [CDVTimer][splashscreen] 15.807033ms
+2015-06-17 16:11:42.414 FindMe![12865:7142527] [CDVTimer][TotalPluginStartup] 16.206980ms
+2015-06-17 16:11:42.496 FindMe![12865:7142527] Resetting plugins due to page load.
+2015-06-17 16:11:42.678 FindMe![12865:7142527] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/63331B87-1E38-4125-B37D-AE0ACFAB8B9B/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:20:12.891 FindMe![13067:7148266] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4F70D002-8F4B-4FA0-AE45-B903DAF0C2B1/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:20:12.974 FindMe![13067:7148266] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:20:12.975 FindMe![13067:7148266] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:20:12.977 FindMe![13067:7148266] Unlimited access to network resources
+2015-06-17 16:20:13.086 FindMe![13067:7148266] [CDVTimer][keyboard] 0.158012ms
+2015-06-17 16:20:13.104 FindMe![13067:7148266] [CDVTimer][splashscreen] 16.996026ms
+2015-06-17 16:20:13.104 FindMe![13067:7148266] [CDVTimer][TotalPluginStartup] 17.673016ms
+2015-06-17 16:20:13.153 FindMe![13067:7148266] Resetting plugins due to page load.
+2015-06-17 16:20:13.335 FindMe![13067:7148266] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A7BE4F8B-9852-4A1E-921B-01B61D619BAA/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:21:23.997 FindMe![13210:7149368] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/D3E6ADDA-9431-4575-AF01-8DE7A7F4C8A7/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:21:24.122 FindMe![13210:7149368] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:21:24.123 FindMe![13210:7149368] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:21:24.125 FindMe![13210:7149368] Unlimited access to network resources
+2015-06-17 16:21:24.226 FindMe![13210:7149368] [CDVTimer][keyboard] 0.062048ms
+2015-06-17 16:21:24.244 FindMe![13210:7149368] [CDVTimer][splashscreen] 17.726004ms
+2015-06-17 16:21:24.244 FindMe![13210:7149368] [CDVTimer][TotalPluginStartup] 18.118024ms
+2015-06-17 16:21:24.293 FindMe![13210:7149368] Resetting plugins due to page load.
+2015-06-17 16:21:24.466 FindMe![13210:7149368] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/EF872016-DF26-4365-8338-00680323569B/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:21:55.871 FindMe![13349:7150043] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/D86C18AA-2460-4E4D-819A-90DBC9C176CA/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:21:55.987 FindMe![13349:7150043] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:21:55.988 FindMe![13349:7150043] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:21:55.991 FindMe![13349:7150043] Unlimited access to network resources
+2015-06-17 16:21:56.115 FindMe![13349:7150043] [CDVTimer][keyboard] 0.060976ms
+2015-06-17 16:21:56.136 FindMe![13349:7150043] [CDVTimer][splashscreen] 20.964026ms
+2015-06-17 16:21:56.136 FindMe![13349:7150043] [CDVTimer][TotalPluginStartup] 21.453023ms
+2015-06-17 16:21:56.211 FindMe![13349:7150043] Resetting plugins due to page load.
+2015-06-17 16:21:56.408 FindMe![13349:7150043] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/B7FC8DCF-25A3-4754-A770-AB722AE591F8/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:22:17.984 FindMe![13487:7150590] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A2C779A2-5389-4F22-9F25-489A4574ACEC/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:22:18.083 FindMe![13487:7150590] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:22:18.084 FindMe![13487:7150590] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:22:18.089 FindMe![13487:7150590] Unlimited access to network resources
+2015-06-17 16:22:18.199 FindMe![13487:7150590] [CDVTimer][keyboard] 0.110030ms
+2015-06-17 16:22:18.220 FindMe![13487:7150590] [CDVTimer][splashscreen] 20.900965ms
+2015-06-17 16:22:18.220 FindMe![13487:7150590] [CDVTimer][TotalPluginStartup] 21.544993ms
+2015-06-17 16:22:18.276 FindMe![13487:7150590] Resetting plugins due to page load.
+2015-06-17 16:22:18.442 FindMe![13487:7150590] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/8ED4031C-EF7C-43D3-8CAB-C1DAB9E00FB8/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:23:20.644 FindMe![13631:7151726] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/377860BB-E806-42BE-A874-4C6ABB7D8373/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:23:20.728 FindMe![13631:7151726] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:23:20.729 FindMe![13631:7151726] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:23:20.731 FindMe![13631:7151726] Unlimited access to network resources
+2015-06-17 16:23:20.839 FindMe![13631:7151726] [CDVTimer][keyboard] 0.055969ms
+2015-06-17 16:23:20.859 FindMe![13631:7151726] [CDVTimer][splashscreen] 20.267010ms
+2015-06-17 16:23:20.859 FindMe![13631:7151726] [CDVTimer][TotalPluginStartup] 20.639956ms
+2015-06-17 16:23:20.911 FindMe![13631:7151726] Resetting plugins due to page load.
+2015-06-17 16:23:21.086 FindMe![13631:7151726] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/29BA5AB4-31E9-4827-AEC5-25C5E0DDB9ED/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:23:36.664 FindMe![13770:7152252] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/FE933042-F3C2-403A-AE3F-9270E2A08294/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:23:36.763 FindMe![13770:7152252] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:23:36.764 FindMe![13770:7152252] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:23:36.766 FindMe![13770:7152252] Unlimited access to network resources
+2015-06-17 16:23:36.870 FindMe![13770:7152252] [CDVTimer][keyboard] 0.143051ms
+2015-06-17 16:23:36.889 FindMe![13770:7152252] [CDVTimer][splashscreen] 18.895984ms
+2015-06-17 16:23:36.889 FindMe![13770:7152252] [CDVTimer][TotalPluginStartup] 19.506991ms
+2015-06-17 16:23:36.935 FindMe![13770:7152252] Resetting plugins due to page load.
+2015-06-17 16:23:37.280 FindMe![13770:7152252] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A61B7197-8A91-49B5-9908-AF8449079B6F/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:24:47.985 FindMe![13913:7153324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/272BDAD0-3AE5-498B-B9C2-71FE2E60FFE5/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:24:48.096 FindMe![13913:7153324] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:24:48.097 FindMe![13913:7153324] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:24:48.098 FindMe![13913:7153324] Unlimited access to network resources
+2015-06-17 16:24:48.192 FindMe![13913:7153324] [CDVTimer][keyboard] 0.115037ms
+2015-06-17 16:24:48.206 FindMe![13913:7153324] [CDVTimer][splashscreen] 14.010012ms
+2015-06-17 16:24:48.206 FindMe![13913:7153324] [CDVTimer][TotalPluginStartup] 14.513016ms
+2015-06-17 16:24:48.251 FindMe![13913:7153324] Resetting plugins due to page load.
+2015-06-17 16:24:48.427 FindMe![13913:7153324] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/B3F8D481-DB91-4D6A-BBF3-0EAEEE9E65C0/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:25:45.829 FindMe![14055:7154154] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/DAEC7FD7-A970-4839-A93F-A4F8842A77B6/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:25:46.006 FindMe![14055:7154154] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:25:46.006 FindMe![14055:7154154] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:25:46.009 FindMe![14055:7154154] Unlimited access to network resources
+2015-06-17 16:25:46.117 FindMe![14055:7154154] [CDVTimer][keyboard] 0.063002ms
+2015-06-17 16:25:46.135 FindMe![14055:7154154] [CDVTimer][splashscreen] 17.230034ms
+2015-06-17 16:25:46.135 FindMe![14055:7154154] [CDVTimer][TotalPluginStartup] 17.624021ms
+2015-06-17 16:25:46.220 FindMe![14055:7154154] Resetting plugins due to page load.
+2015-06-17 16:25:46.411 FindMe![14055:7154154] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C6E748D1-6DC7-4146-A3E6-BA8260993581/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:26:01.170 FindMe![14193:7154642] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/69D9B957-7524-49D7-8F44-37BE18BB681E/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:26:01.287 FindMe![14193:7154642] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:26:01.287 FindMe![14193:7154642] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:26:01.290 FindMe![14193:7154642] Unlimited access to network resources
+2015-06-17 16:26:01.383 FindMe![14193:7154642] [CDVTimer][keyboard] 0.150025ms
+2015-06-17 16:26:01.400 FindMe![14193:7154642] [CDVTimer][splashscreen] 15.824020ms
+2015-06-17 16:26:01.400 FindMe![14193:7154642] [CDVTimer][TotalPluginStartup] 16.517997ms
+2015-06-17 16:26:01.450 FindMe![14193:7154642] Resetting plugins due to page load.
+2015-06-17 16:26:01.629 FindMe![14193:7154642] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/EEEBCF50-B402-4662-AAA1-87DCECA4C2CE/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 16:26:23.705 FindMe![14331:7155202] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B31B12FF-DAF6-4DE7-8AA0-980C9F8F0FB5/Library/Cookies/Cookies.binarycookies
+2015-06-17 16:26:23.824 FindMe![14331:7155202] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 16:26:23.824 FindMe![14331:7155202] Multi-tasking -> Device: YES, App: YES
+2015-06-17 16:26:23.826 FindMe![14331:7155202] Unlimited access to network resources
+2015-06-17 16:26:23.921 FindMe![14331:7155202] [CDVTimer][keyboard] 0.060022ms
+2015-06-17 16:26:23.938 FindMe![14331:7155202] [CDVTimer][splashscreen] 16.247988ms
+2015-06-17 16:26:23.938 FindMe![14331:7155202] [CDVTimer][TotalPluginStartup] 16.631007ms
+2015-06-17 16:26:23.989 FindMe![14331:7155202] Resetting plugins due to page load.
+2015-06-17 16:26:24.166 FindMe![14331:7155202] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/E624F113-0B15-4D5F-9BCA-6823CCE4D7FB/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 17:03:34.062 FindMe![14743:7174633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/9A41D910-BDE6-4B49-8BFD-6E082F508F35/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:03:34.212 FindMe![14743:7174633] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:03:34.212 FindMe![14743:7174633] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:03:34.214 FindMe![14743:7174633] Unlimited access to network resources
+2015-06-17 17:03:34.299 FindMe![14743:7174633] [CDVTimer][keyboard] 0.055969ms
+2015-06-17 17:03:34.315 FindMe![14743:7174633] [CDVTimer][splashscreen] 15.869021ms
+2015-06-17 17:03:34.315 FindMe![14743:7174633] [CDVTimer][TotalPluginStartup] 16.247034ms
+2015-06-17 17:03:34.366 FindMe![14743:7174633] Resetting plugins due to page load.
+2015-06-17 17:03:34.535 FindMe![14743:7174633] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/5C0F81E5-BFFC-41D4-AD82-45076856F7BF/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 17:15:14.175 FindMe![14980:7181665] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/8673F8E5-48F6-4628-8B72-BA0BFF49DE4C/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:15:14.282 FindMe![14980:7181665] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:15:14.282 FindMe![14980:7181665] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:15:14.284 FindMe![14980:7181665] Unlimited access to network resources
+2015-06-17 17:15:14.383 FindMe![14980:7181665] [CDVTimer][keyboard] 0.057995ms
+2015-06-17 17:15:14.403 FindMe![14980:7181665] [CDVTimer][splashscreen] 19.973993ms
+2015-06-17 17:15:14.403 FindMe![14980:7181665] [CDVTimer][TotalPluginStartup] 20.366013ms
+2015-06-17 17:15:14.458 FindMe![14980:7181665] Resetting plugins due to page load.
+2015-06-17 17:15:14.667 FindMe![14980:7181665] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/D377B720-1224-4FF7-8E3E-428E643C9410/FindMe!.app/www/index.html#/tab/dash
+2015-06-17 17:15:54.571 FindMe![15123:7182538] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/8D2012A6-B757-4663-B1DC-24A34A8AF00C/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:15:54.668 FindMe![15123:7182538] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:15:54.668 FindMe![15123:7182538] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:15:54.671 FindMe![15123:7182538] Unlimited access to network resources
+2015-06-17 17:15:54.769 FindMe![15123:7182538] [CDVTimer][keyboard] 0.064015ms
+2015-06-17 17:15:54.788 FindMe![15123:7182538] [CDVTimer][splashscreen] 19.444048ms
+2015-06-17 17:15:54.788 FindMe![15123:7182538] [CDVTimer][TotalPluginStartup] 19.843996ms
+2015-06-17 17:15:54.842 FindMe![15123:7182538] Resetting plugins due to page load.
+2015-06-17 17:15:55.044 FindMe![15123:7182538] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/3650B489-5461-48A7-BE7D-9F92FD093B9F/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:27:40.631 FindMe![15347:7189668] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/EAAA3F7A-FFFF-4C49-985C-6BC81D7513F3/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:27:40.725 FindMe![15347:7189668] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:27:40.726 FindMe![15347:7189668] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:27:40.728 FindMe![15347:7189668] Unlimited access to network resources
+2015-06-17 17:27:40.820 FindMe![15347:7189668] [CDVTimer][keyboard] 0.344992ms
+2015-06-17 17:27:40.838 FindMe![15347:7189668] [CDVTimer][splashscreen] 17.795980ms
+2015-06-17 17:27:40.838 FindMe![15347:7189668] [CDVTimer][TotalPluginStartup] 18.770993ms
+2015-06-17 17:27:40.892 FindMe![15347:7189668] Resetting plugins due to page load.
+2015-06-17 17:27:41.069 FindMe![15347:7189668] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A8AF0FBE-1222-47E9-8566-45D84C0FA59F/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:32:05.330 FindMe![15532:7192710] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/9A25DE76-69A1-414D-98F2-F9767C762362/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:32:05.434 FindMe![15532:7192710] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:32:05.435 FindMe![15532:7192710] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:32:05.437 FindMe![15532:7192710] Unlimited access to network resources
+2015-06-17 17:32:05.546 FindMe![15532:7192710] [CDVTimer][keyboard] 0.066996ms
+2015-06-17 17:32:05.567 FindMe![15532:7192710] [CDVTimer][splashscreen] 20.636976ms
+2015-06-17 17:32:05.567 FindMe![15532:7192710] [CDVTimer][TotalPluginStartup] 21.093011ms
+2015-06-17 17:32:05.619 FindMe![15532:7192710] Resetting plugins due to page load.
+2015-06-17 17:32:05.804 FindMe![15532:7192710] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9211A05C-0C92-4F9D-B5F4-F5464B6BC220/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:35:12.076 FindMe![15693:7194447] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B6DF56D1-01CE-4EDF-93D5-2C21F97553C8/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:35:12.164 FindMe![15693:7194447] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:35:12.164 FindMe![15693:7194447] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:35:12.166 FindMe![15693:7194447] Unlimited access to network resources
+2015-06-17 17:35:12.267 FindMe![15693:7194447] [CDVTimer][keyboard] 0.062048ms
+2015-06-17 17:35:12.285 FindMe![15693:7194447] [CDVTimer][splashscreen] 18.389046ms
+2015-06-17 17:35:12.285 FindMe![15693:7194447] [CDVTimer][TotalPluginStartup] 18.779993ms
+2015-06-17 17:35:12.338 FindMe![15693:7194447] Resetting plugins due to page load.
+2015-06-17 17:35:12.518 FindMe![15693:7194447] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9DFE3ABF-DB7A-4ABF-84ED-1616C1C5E987/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:36:54.349 FindMe![15846:7195741] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6AD039A6-A7ED-4EE4-A0B5-0C3A8F0BBD7C/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:36:54.502 FindMe![15846:7195741] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:36:54.503 FindMe![15846:7195741] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:36:54.505 FindMe![15846:7195741] Unlimited access to network resources
+2015-06-17 17:36:54.622 FindMe![15846:7195741] [CDVTimer][keyboard] 0.063002ms
+2015-06-17 17:36:54.642 FindMe![15846:7195741] [CDVTimer][splashscreen] 20.047009ms
+2015-06-17 17:36:54.642 FindMe![15846:7195741] [CDVTimer][TotalPluginStartup] 20.460010ms
+2015-06-17 17:36:54.700 FindMe![15846:7195741] Resetting plugins due to page load.
+2015-06-17 17:36:54.901 FindMe![15846:7195741] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/65741EC3-101C-47A6-A525-7FBE84682D98/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:37:11.360 FindMe![15988:7196290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B436C1EE-EFF7-4A4A-B126-738B0E450251/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:37:11.448 FindMe![15988:7196290] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:37:11.449 FindMe![15988:7196290] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:37:11.451 FindMe![15988:7196290] Unlimited access to network resources
+2015-06-17 17:37:11.575 FindMe![15988:7196290] [CDVTimer][keyboard] 0.096023ms
+2015-06-17 17:37:11.599 FindMe![15988:7196290] [CDVTimer][splashscreen] 23.161054ms
+2015-06-17 17:37:11.599 FindMe![15988:7196290] [CDVTimer][TotalPluginStartup] 23.745954ms
+2015-06-17 17:37:11.682 FindMe![15988:7196290] Resetting plugins due to page load.
+2015-06-17 17:37:11.865 FindMe![15988:7196290] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A7CEF769-FC16-4171-8789-ADCBE8F16827/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:43:46.703 FindMe![16171:7199413] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4B3323A0-EE96-4A17-9BFF-71E72BF6BEAC/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:43:46.804 FindMe![16171:7199413] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:43:46.805 FindMe![16171:7199413] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:43:46.811 FindMe![16171:7199413] Unlimited access to network resources
+2015-06-17 17:43:46.930 FindMe![16171:7199413] [CDVTimer][keyboard] 0.064015ms
+2015-06-17 17:43:46.947 FindMe![16171:7199413] [CDVTimer][splashscreen] 16.656995ms
+2015-06-17 17:43:46.947 FindMe![16171:7199413] [CDVTimer][TotalPluginStartup] 17.086983ms
+2015-06-17 17:43:47.008 FindMe![16171:7199413] Resetting plugins due to page load.
+2015-06-17 17:43:47.196 FindMe![16171:7199413] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/B74B7F94-10D0-46A2-8562-5174A2C901FB/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:45:21.140 FindMe![16317:7200538] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/DCD51CFD-0157-4DEC-B299-C3ED4D2EE6FA/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:45:21.220 FindMe![16317:7200538] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:45:21.220 FindMe![16317:7200538] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:45:21.223 FindMe![16317:7200538] Unlimited access to network resources
+2015-06-17 17:45:21.325 FindMe![16317:7200538] [CDVTimer][keyboard] 0.068009ms
+2015-06-17 17:45:21.345 FindMe![16317:7200538] [CDVTimer][splashscreen] 19.916952ms
+2015-06-17 17:45:21.345 FindMe![16317:7200538] [CDVTimer][TotalPluginStartup] 20.340025ms
+2015-06-17 17:45:21.396 FindMe![16317:7200538] Resetting plugins due to page load.
+2015-06-17 17:45:21.582 FindMe![16317:7200538] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9B807842-8D15-4732-AD38-2877A7CFC7E2/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:46:02.270 FindMe![16462:7201451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B0B2C683-D845-49FA-AAFF-91D6EEFEE708/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:46:02.374 FindMe![16462:7201451] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:46:02.374 FindMe![16462:7201451] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:46:02.377 FindMe![16462:7201451] Unlimited access to network resources
+2015-06-17 17:46:02.479 FindMe![16462:7201451] [CDVTimer][keyboard] 0.061989ms
+2015-06-17 17:46:02.501 FindMe![16462:7201451] [CDVTimer][splashscreen] 20.986021ms
+2015-06-17 17:46:02.501 FindMe![16462:7201451] [CDVTimer][TotalPluginStartup] 21.404982ms
+2015-06-17 17:46:02.559 FindMe![16462:7201451] Resetting plugins due to page load.
+2015-06-17 17:46:02.756 FindMe![16462:7201451] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/A3405F14-67C5-454D-BA88-C9196F53318D/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:55:11.611 FindMe![16669:7206627] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A41603E2-3AB6-4698-B92C-4FE1BC0D4BCB/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:55:11.717 FindMe![16669:7206627] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:55:11.717 FindMe![16669:7206627] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:55:11.720 FindMe![16669:7206627] Unlimited access to network resources
+2015-06-17 17:55:11.838 FindMe![16669:7206627] [CDVTimer][keyboard] 0.115991ms
+2015-06-17 17:55:11.855 FindMe![16669:7206627] [CDVTimer][splashscreen] 17.324984ms
+2015-06-17 17:55:11.855 FindMe![16669:7206627] [CDVTimer][TotalPluginStartup] 17.832994ms
+2015-06-17 17:55:11.915 FindMe![16669:7206627] Resetting plugins due to page load.
+2015-06-17 17:55:12.098 FindMe![16669:7206627] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/C2602EBF-306A-45DF-9F1C-268F78CB22CC/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:57:39.376 FindMe![16828:7208119] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/43BB1581-3078-4EA8-86DA-4B00D1CDF971/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:57:39.483 FindMe![16828:7208119] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:57:39.484 FindMe![16828:7208119] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:57:39.486 FindMe![16828:7208119] Unlimited access to network resources
+2015-06-17 17:57:39.584 FindMe![16828:7208119] [CDVTimer][keyboard] 0.059009ms
+2015-06-17 17:57:39.604 FindMe![16828:7208119] [CDVTimer][splashscreen] 18.985987ms
+2015-06-17 17:57:39.604 FindMe![16828:7208119] [CDVTimer][TotalPluginStartup] 19.374013ms
+2015-06-17 17:57:39.659 FindMe![16828:7208119] Resetting plugins due to page load.
+2015-06-17 17:57:39.846 FindMe![16828:7208119] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/8B4E950B-6F7D-4532-9D08-1174B484AED8/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:58:29.762 FindMe![16971:7208923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/E52FABB2-F894-4A63-ADB2-EABCC467455E/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:58:29.877 FindMe![16971:7208923] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:58:29.878 FindMe![16971:7208923] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:58:29.882 FindMe![16971:7208923] Unlimited access to network resources
+2015-06-17 17:58:29.984 FindMe![16971:7208923] [CDVTimer][keyboard] 0.061035ms
+2015-06-17 17:58:29.999 FindMe![16971:7208923] [CDVTimer][splashscreen] 14.303982ms
+2015-06-17 17:58:29.999 FindMe![16971:7208923] [CDVTimer][TotalPluginStartup] 14.687002ms
+2015-06-17 17:58:30.054 FindMe![16971:7208923] Resetting plugins due to page load.
+2015-06-17 17:58:30.249 FindMe![16971:7208923] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/0D7E4A32-BF51-410B-B265-31D6730D540E/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:59:16.662 FindMe![17114:7209707] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/8B31ABC8-9B45-4064-A817-45C6C29C7BB2/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:59:16.780 FindMe![17114:7209707] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:59:16.780 FindMe![17114:7209707] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:59:16.783 FindMe![17114:7209707] Unlimited access to network resources
+2015-06-17 17:59:16.873 FindMe![17114:7209707] [CDVTimer][keyboard] 0.059009ms
+2015-06-17 17:59:16.894 FindMe![17114:7209707] [CDVTimer][splashscreen] 20.619988ms
+2015-06-17 17:59:16.894 FindMe![17114:7209707] [CDVTimer][TotalPluginStartup] 21.000028ms
+2015-06-17 17:59:16.941 FindMe![17114:7209707] Resetting plugins due to page load.
+2015-06-17 17:59:17.120 FindMe![17114:7209707] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/7837B5EA-7C2D-43BE-8B12-B424B5FC849B/FindMe!.app/www/index.html#/tab/offers
+2015-06-17 17:59:53.511 FindMe![17257:7210532] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/5D09976D-D587-438D-958B-4FAE45337C60/Library/Cookies/Cookies.binarycookies
+2015-06-17 17:59:53.627 FindMe![17257:7210532] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-17 17:59:53.627 FindMe![17257:7210532] Multi-tasking -> Device: YES, App: YES
+2015-06-17 17:59:53.630 FindMe![17257:7210532] Unlimited access to network resources
+2015-06-17 17:59:53.729 FindMe![17257:7210532] [CDVTimer][keyboard] 0.087976ms
+2015-06-17 17:59:53.747 FindMe![17257:7210532] [CDVTimer][splashscreen] 16.959012ms
+2015-06-17 17:59:53.747 FindMe![17257:7210532] [CDVTimer][TotalPluginStartup] 17.431021ms
+2015-06-17 17:59:53.798 FindMe![17257:7210532] Resetting plugins due to page load.
+2015-06-17 17:59:53.961 FindMe![17257:7210532] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/5A04215F-16B4-4090-98E8-BE72FB991FD9/FindMe!.app/www/index.html#/tab/offers
+2015-06-19 21:57:16.015 FindMe![29460:13305539] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/62CEA458-D84E-42CC-A62D-971E7A5C0DDD/Library/Cookies/Cookies.binarycookies
+2015-06-19 21:57:16.300 FindMe![29460:13305539] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 21:57:16.300 FindMe![29460:13305539] Multi-tasking -> Device: YES, App: YES
+2015-06-19 21:57:16.314 FindMe![29460:13305539] Unlimited access to network resources
+2015-06-19 21:57:16.660 FindMe![29460:13305539] [CDVTimer][keyboard] 0.070989ms
+2015-06-19 21:57:16.822 FindMe![29460:13305539] [CDVTimer][splashscreen] 162.127018ms
+2015-06-19 21:57:16.822 FindMe![29460:13305539] [CDVTimer][TotalPluginStartup] 162.932038ms
+2015-06-19 21:57:16.965 FindMe![29460:13305539] Resetting plugins due to page load.
+2015-06-19 21:57:17.284 FindMe![29460:13305539] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/29725772-50C0-494C-AA0C-87AFEBF32AD0/FindMe!.app/www/index.html#/tab/offers
+2015-06-19 22:00:59.137 FindMe![29918:13310726] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/A77FCEC9-43B6-4303-B1F1-28AD5A2E4FEE/Library/Cookies/Cookies.binarycookies
+2015-06-19 22:00:59.215 FindMe![29918:13310726] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-19 22:00:59.216 FindMe![29918:13310726] Multi-tasking -> Device: YES, App: YES
+2015-06-19 22:00:59.218 FindMe![29918:13310726] Unlimited access to network resources
+2015-06-19 22:00:59.343 FindMe![29918:13310726] [CDVTimer][keyboard] 0.091016ms
+2015-06-19 22:00:59.378 FindMe![29918:13310726] [CDVTimer][splashscreen] 35.039008ms
+2015-06-19 22:00:59.378 FindMe![29918:13310726] [CDVTimer][TotalPluginStartup] 35.596967ms
+2015-06-19 22:00:59.481 FindMe![29918:13310726] Resetting plugins due to page load.
+2015-06-19 22:00:59.691 FindMe![29918:13310726] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/75491C26-EBD2-4D80-B754-033CFED84EDC/FindMe!.app/www/index.html#/tab/offers
+2015-06-19 22:09:03.695 FindMe![29918:13317907] Terminating since there is no system app.
+2015-06-24 15:10:46.521 FindMe![13088:1505945] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/9742D121-008F-4307-BC8D-2A9A66A3792C/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:10:46.866 FindMe![13088:1505945] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:10:46.867 FindMe![13088:1505945] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:10:46.884 FindMe![13088:1505945] Unlimited access to network resources
+2015-06-24 15:10:47.246 FindMe![13088:1505945] [CDVTimer][keyboard] 0.072956ms
+2015-06-24 15:10:47.416 FindMe![13088:1505945] [CDVTimer][splashscreen] 170.587003ms
+2015-06-24 15:10:47.416 FindMe![13088:1505945] [CDVTimer][TotalPluginStartup] 171.499968ms
+2015-06-24 15:10:47.572 FindMe![13088:1505945] Resetting plugins due to page load.
+2015-06-24 15:10:47.880 FindMe![13088:1505945] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/08047EC7-4027-4DA9-B3C0-D09615CE0AC5/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:15:27.128 FindMe![13445:1509126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B501D67E-2E50-4EFF-AC20-2C6B9471E154/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:15:27.227 FindMe![13445:1509126] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:15:27.228 FindMe![13445:1509126] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:15:27.230 FindMe![13445:1509126] Unlimited access to network resources
+2015-06-24 15:15:27.344 FindMe![13445:1509126] [CDVTimer][keyboard] 0.122964ms
+2015-06-24 15:15:27.378 FindMe![13445:1509126] [CDVTimer][splashscreen] 33.150971ms
+2015-06-24 15:15:27.378 FindMe![13445:1509126] [CDVTimer][TotalPluginStartup] 33.749044ms
+2015-06-24 15:15:27.453 FindMe![13445:1509126] Resetting plugins due to page load.
+2015-06-24 15:15:27.649 FindMe![13445:1509126] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/395BCD08-62B2-43BE-8EF1-170C68CD821C/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:30:25.956 FindMe![13871:1517790] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/1135BFF2-9BBC-4D90-801D-011D798DF8A7/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:30:26.022 FindMe![13871:1517790] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:30:26.022 FindMe![13871:1517790] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:30:26.024 FindMe![13871:1517790] Unlimited access to network resources
+2015-06-24 15:30:26.108 FindMe![13871:1517790] [CDVTimer][keyboard] 0.070035ms
+2015-06-24 15:30:26.133 FindMe![13871:1517790] [CDVTimer][splashscreen] 24.030983ms
+2015-06-24 15:30:26.133 FindMe![13871:1517790] [CDVTimer][TotalPluginStartup] 24.441957ms
+2015-06-24 15:30:26.190 FindMe![13871:1517790] Resetting plugins due to page load.
+2015-06-24 15:30:26.369 FindMe![13871:1517790] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/D8022D81-783B-4017-A070-29E2FE863FA6/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:35:21.506 FindMe![14099:1520583] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/2A054BEC-9DE8-43D2-B7AB-C0BA23F42076/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:35:21.624 FindMe![14099:1520583] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:35:21.625 FindMe![14099:1520583] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:35:21.628 FindMe![14099:1520583] Unlimited access to network resources
+2015-06-24 15:35:21.729 FindMe![14099:1520583] [CDVTimer][keyboard] 0.064015ms
+2015-06-24 15:35:21.746 FindMe![14099:1520583] [CDVTimer][splashscreen] 17.372012ms
+2015-06-24 15:35:21.747 FindMe![14099:1520583] [CDVTimer][TotalPluginStartup] 18.059015ms
+2015-06-24 15:35:21.813 FindMe![14099:1520583] Resetting plugins due to page load.
+2015-06-24 15:35:21.991 FindMe![14099:1520583] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/B06CA933-2B79-489A-BA51-51096E22C459/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:38:10.772 FindMe![14296:1522157] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4DEE88C2-1991-4C7F-9E5C-70F41B0A302E/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:38:10.870 FindMe![14296:1522157] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:38:10.870 FindMe![14296:1522157] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:38:10.872 FindMe![14296:1522157] Unlimited access to network resources
+2015-06-24 15:38:10.975 FindMe![14296:1522157] [CDVTimer][keyboard] 0.063002ms
+2015-06-24 15:38:10.992 FindMe![14296:1522157] [CDVTimer][splashscreen] 16.960025ms
+2015-06-24 15:38:10.992 FindMe![14296:1522157] [CDVTimer][TotalPluginStartup] 17.662942ms
+2015-06-24 15:38:11.051 FindMe![14296:1522157] Resetting plugins due to page load.
+2015-06-24 15:38:11.176 FindMe![14296:1522157] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/9CFFDCE4-D8BE-48D9-9BB8-D7712DEBDC24/FindMe!.app/www/index.html
+2015-06-24 15:41:22.203 FindMe![14493:1524671] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/F64C4A2C-5676-4DC9-9C1E-AD6989D340D5/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:41:22.343 FindMe![14493:1524671] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:41:22.344 FindMe![14493:1524671] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:41:22.347 FindMe![14493:1524671] Unlimited access to network resources
+2015-06-24 15:41:22.441 FindMe![14493:1524671] [CDVTimer][keyboard] 0.074029ms
+2015-06-24 15:41:22.458 FindMe![14493:1524671] [CDVTimer][splashscreen] 17.631948ms
+2015-06-24 15:41:22.458 FindMe![14493:1524671] [CDVTimer][TotalPluginStartup] 18.061042ms
+2015-06-24 15:41:22.517 FindMe![14493:1524671] Resetting plugins due to page load.
+2015-06-24 15:41:22.697 FindMe![14493:1524671] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/337D508C-7DD8-47A5-BE42-6127CB786472/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:43:36.555 FindMe![14675:1526402] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/4D1E8AFA-72FA-4A8A-B20A-E6CF92DFCF3C/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:43:36.678 FindMe![14675:1526402] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:43:36.679 FindMe![14675:1526402] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:43:36.682 FindMe![14675:1526402] Unlimited access to network resources
+2015-06-24 15:43:36.773 FindMe![14675:1526402] [CDVTimer][keyboard] 0.058949ms
+2015-06-24 15:43:36.788 FindMe![14675:1526402] [CDVTimer][splashscreen] 14.421999ms
+2015-06-24 15:43:36.788 FindMe![14675:1526402] [CDVTimer][TotalPluginStartup] 14.823020ms
+2015-06-24 15:43:36.871 FindMe![14675:1526402] Resetting plugins due to page load.
+2015-06-24 15:43:37.043 FindMe![14675:1526402] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/1EAAAC6B-4B30-4CC4-AF27-C0F317262759/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 15:45:45.733 FindMe![14849:1527674] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/897CC77E-AF02-4309-BD88-0924BD28E189/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:45:45.849 FindMe![14849:1527674] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 15:45:45.850 FindMe![14849:1527674] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:45:45.853 FindMe![14849:1527674] Unlimited access to network resources
+2015-06-24 15:45:45.953 FindMe![14849:1527674] [CDVTimer][keyboard] 0.073969ms
+2015-06-24 15:45:45.970 FindMe![14849:1527674] [CDVTimer][splashscreen] 16.430020ms
+2015-06-24 15:45:45.970 FindMe![14849:1527674] [CDVTimer][TotalPluginStartup] 16.848028ms
+2015-06-24 15:45:46.037 FindMe![14849:1527674] Resetting plugins due to page load.
+2015-06-24 15:45:46.223 FindMe![14849:1527674] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/7CD7D575-3216-4692-A3F0-457EBED42B0D/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:07:23.258 FindMe![15401:1539932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/439AC288-B0DA-4BE7-A7EB-4B83A2A1AA60/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:07:23.324 FindMe![15401:1539932] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:07:23.325 FindMe![15401:1539932] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:07:23.326 FindMe![15401:1539932] Unlimited access to network resources
+2015-06-24 16:07:23.410 FindMe![15401:1539932] [CDVTimer][keyboard] 0.060976ms
+2015-06-24 16:07:23.432 FindMe![15401:1539932] [CDVTimer][splashscreen] 21.187007ms
+2015-06-24 16:07:23.432 FindMe![15401:1539932] [CDVTimer][TotalPluginStartup] 21.589994ms
+2015-06-24 16:07:23.483 FindMe![15401:1539932] Resetting plugins due to page load.
+2015-06-24 16:07:23.825 FindMe![15401:1539932] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/06284535-35EC-4783-8487-2B5D6AD8ECC0/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:07:52.392 FindMe![15545:1540576] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/B32A627C-E51F-4CB9-B999-AF2234CF3AF7/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:07:52.454 FindMe![15545:1540576] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:07:52.454 FindMe![15545:1540576] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:07:52.456 FindMe![15545:1540576] Unlimited access to network resources
+2015-06-24 16:07:52.534 FindMe![15545:1540576] [CDVTimer][keyboard] 0.056982ms
+2015-06-24 16:07:52.555 FindMe![15545:1540576] [CDVTimer][splashscreen] 20.394027ms
+2015-06-24 16:07:52.555 FindMe![15545:1540576] [CDVTimer][TotalPluginStartup] 20.765007ms
+2015-06-24 16:07:52.607 FindMe![15545:1540576] Resetting plugins due to page load.
+2015-06-24 16:07:52.778 FindMe![15545:1540576] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/56BF424D-789D-47AF-AACD-A91E6802CD7C/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:23:00.397 FindMe![16050:1552240] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/BF2E85D5-27BA-4C2A-AF07-5199804F08BE/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:23:00.474 FindMe![16050:1552240] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:23:00.474 FindMe![16050:1552240] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:23:00.478 FindMe![16050:1552240] Unlimited access to network resources
+2015-06-24 16:23:00.553 FindMe![16050:1552240] [CDVTimer][keyboard] 0.052989ms
+2015-06-24 16:23:00.569 FindMe![16050:1552240] [CDVTimer][splashscreen] 16.245008ms
+2015-06-24 16:23:00.569 FindMe![16050:1552240] [CDVTimer][TotalPluginStartup] 16.834021ms
+2015-06-24 16:23:00.621 FindMe![16050:1552240] Resetting plugins due to page load.
+2015-06-24 16:23:00.811 FindMe![16050:1552240] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/D294055A-3036-441E-93ED-7142B351FFA4/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:23:03.033 FindMe![16050:1552259] Camera.getPicture: source type 1 not available.
+2015-06-24 16:51:36.194 FindMe![16786:1569936] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/3D3A486C-C2B3-475B-B883-C4EB1EA93F64/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:51:36.290 FindMe![16786:1569936] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:51:36.290 FindMe![16786:1569936] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:51:36.293 FindMe![16786:1569936] Unlimited access to network resources
+2015-06-24 16:51:36.376 FindMe![16786:1569936] [CDVTimer][keyboard] 0.095963ms
+2015-06-24 16:51:36.395 FindMe![16786:1569936] [CDVTimer][splashscreen] 18.178999ms
+2015-06-24 16:51:36.395 FindMe![16786:1569936] [CDVTimer][TotalPluginStartup] 18.725991ms
+2015-06-24 16:51:36.452 FindMe![16786:1569936] Resetting plugins due to page load.
+2015-06-24 16:51:36.636 FindMe![16786:1569936] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/274CEE44-848F-4954-9BBF-F1CB14A4A79F/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:51:37.563 FindMe![16786:1569954] Camera.getPicture: source type 1 not available.
+2015-06-24 16:51:37.646 FindMe![16786:1569936] Device has no Camera!
+2015-06-24 16:52:07.629 FindMe![16786:1569959] Camera.getPicture: source type 1 not available.
+2015-06-24 16:52:07.800 FindMe![16786:1569936] Device has no Camera!
+2015-06-24 16:52:50.073 FindMe![17006:1570932] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/DBE9A08B-4C5F-4866-84AB-CF1B71BA342E/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:52:50.211 FindMe![17006:1570932] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:52:50.212 FindMe![17006:1570932] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:52:50.215 FindMe![17006:1570932] Unlimited access to network resources
+2015-06-24 16:52:50.325 FindMe![17006:1570932] [CDVTimer][keyboard] 0.052989ms
+2015-06-24 16:52:50.341 FindMe![17006:1570932] [CDVTimer][splashscreen] 16.121984ms
+2015-06-24 16:52:50.341 FindMe![17006:1570932] [CDVTimer][TotalPluginStartup] 16.499996ms
+2015-06-24 16:52:50.402 FindMe![17006:1570932] Resetting plugins due to page load.
+2015-06-24 16:52:50.609 FindMe![17006:1570932] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/735FD8F6-77E3-4FF7-88A2-2FF44C5758AC/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:53:55.569 FindMe![17218:1572095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/63119F0A-1523-4D23-97D9-7C4B2B2F6B57/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:53:55.704 FindMe![17218:1572095] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:53:55.705 FindMe![17218:1572095] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:53:55.708 FindMe![17218:1572095] Unlimited access to network resources
+2015-06-24 16:53:55.799 FindMe![17218:1572095] [CDVTimer][keyboard] 0.057995ms
+2015-06-24 16:53:55.816 FindMe![17218:1572095] [CDVTimer][splashscreen] 16.844034ms
+2015-06-24 16:53:55.816 FindMe![17218:1572095] [CDVTimer][TotalPluginStartup] 17.261982ms
+2015-06-24 16:53:55.893 FindMe![17218:1572095] Resetting plugins due to page load.
+2015-06-24 16:53:56.080 FindMe![17218:1572095] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/88DE8B7C-4F46-4698-A9FD-9145A37897FB/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:53:57.588 FindMe![17218:1572111] Camera.getPicture: source type 1 not available.
+2015-06-24 16:53:57.835 FindMe![17218:1572095] Device has no Camera!
+2015-06-24 16:54:03.155 FindMe![17218:1572111] Camera.getPicture: source type 1 not available.
+2015-06-24 16:54:03.385 FindMe![17218:1572095] Device has no Camera!
+2015-06-24 16:55:41.494 FindMe![17440:1573350] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/3BCE1808-2669-417D-8888-317FF73EF12F/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:55:41.575 FindMe![17440:1573350] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:55:41.575 FindMe![17440:1573350] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:55:41.578 FindMe![17440:1573350] Unlimited access to network resources
+2015-06-24 16:55:41.671 FindMe![17440:1573350] [CDVTimer][keyboard] 0.100017ms
+2015-06-24 16:55:41.690 FindMe![17440:1573350] [CDVTimer][splashscreen] 18.432021ms
+2015-06-24 16:55:41.690 FindMe![17440:1573350] [CDVTimer][TotalPluginStartup] 18.950045ms
+2015-06-24 16:55:41.805 FindMe![17440:1573350] Resetting plugins due to page load.
+2015-06-24 16:55:42.006 FindMe![17440:1573350] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/4BC15014-8472-492A-932B-8423C6B3E7BB/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:55:43.218 FindMe![17440:1573371] Camera.getPicture: source type 1 not available.
+2015-06-24 16:55:43.410 FindMe![17440:1573350] Device has no Camera!
+2015-06-24 16:56:31.190 FindMe![17440:1573853] Camera.getPicture: source type 1 not available.
+2015-06-24 16:56:31.483 FindMe![17440:1573350] Device has no Camera!
+2015-06-24 16:56:35.874 FindMe![17440:1573854] Camera.getPicture: source type 1 not available.
+2015-06-24 16:56:36.037 FindMe![17440:1573350] Device has no Camera!
+2015-06-24 16:56:49.286 FindMe![17652:1574339] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/C158E487-DFD3-4E86-AB33-B082EDFA4928/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:56:49.423 FindMe![17652:1574339] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:56:49.424 FindMe![17652:1574339] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:56:49.427 FindMe![17652:1574339] Unlimited access to network resources
+2015-06-24 16:56:49.522 FindMe![17652:1574339] [CDVTimer][keyboard] 0.061989ms
+2015-06-24 16:56:49.539 FindMe![17652:1574339] [CDVTimer][splashscreen] 16.362965ms
+2015-06-24 16:56:49.539 FindMe![17652:1574339] [CDVTimer][TotalPluginStartup] 16.754985ms
+2015-06-24 16:56:49.608 FindMe![17652:1574339] Resetting plugins due to page load.
+2015-06-24 16:56:49.823 FindMe![17652:1574339] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/7B0E5860-1FB6-44EE-A048-7689C421507A/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:56:54.713 FindMe![17652:1574346] Camera.getPicture: source type 1 not available.
+2015-06-24 16:56:54.912 FindMe![17652:1574339] Device has no Camera!
+2015-06-24 16:57:39.484 FindMe![17863:1575284] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/0FDE472E-7FA9-409A-AFE9-AA8A86521345/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:57:39.615 FindMe![17863:1575284] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:57:39.616 FindMe![17863:1575284] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:57:39.619 FindMe![17863:1575284] Unlimited access to network resources
+2015-06-24 16:57:39.714 FindMe![17863:1575284] [CDVTimer][keyboard] 0.051022ms
+2015-06-24 16:57:39.732 FindMe![17863:1575284] [CDVTimer][splashscreen] 17.978013ms
+2015-06-24 16:57:39.732 FindMe![17863:1575284] [CDVTimer][TotalPluginStartup] 18.374026ms
+2015-06-24 16:57:39.818 FindMe![17863:1575284] Resetting plugins due to page load.
+2015-06-24 16:57:39.997 FindMe![17863:1575284] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/66CDD5CD-629C-4274-9228-5CBCB2039EB4/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:57:41.097 FindMe![17863:1575290] Camera.getPicture: source type 1 not available.
+2015-06-24 16:57:41.297 FindMe![17863:1575284] Device has no Camera!
+2015-06-24 16:58:16.046 FindMe![18065:1576031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/15B9B6B3-5C3F-44AE-A1B8-C150DAC284EA/Library/Cookies/Cookies.binarycookies
+2015-06-24 16:58:16.200 FindMe![18065:1576031] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 16:58:16.201 FindMe![18065:1576031] Multi-tasking -> Device: YES, App: YES
+2015-06-24 16:58:16.204 FindMe![18065:1576031] Unlimited access to network resources
+2015-06-24 16:58:16.294 FindMe![18065:1576031] [CDVTimer][keyboard] 0.051975ms
+2015-06-24 16:58:16.311 FindMe![18065:1576031] [CDVTimer][splashscreen] 16.305029ms
+2015-06-24 16:58:16.311 FindMe![18065:1576031] [CDVTimer][TotalPluginStartup] 16.713023ms
+2015-06-24 16:58:16.391 FindMe![18065:1576031] Resetting plugins due to page load.
+2015-06-24 16:58:16.593 FindMe![18065:1576031] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/61E8241C-AF45-4B4D-83FC-D02F99568557/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 16:58:19.192 FindMe![18065:1576038] Camera.getPicture: source type 1 not available.
+2015-06-24 16:58:19.374 FindMe![18065:1576031] Device has no Camera!
+2015-06-24 17:01:09.913 FindMe![18065:1576920] Camera.getPicture: source type 1 not available.
+2015-06-24 17:01:10.204 FindMe![18065:1576031] Device has no Camera!
+2015-06-24 17:01:23.233 FindMe![18065:1576922] Camera.getPicture: source type 1 not available.
+2015-06-24 17:01:23.449 FindMe![18065:1576031] Device has no Camera!
+2015-06-24 17:01:36.268 FindMe![18065:1577063] Camera.getPicture: source type 1 not available.
+2015-06-24 17:01:36.491 FindMe![18065:1576031] Device has no Camera!
+2015-06-24 17:03:43.787 FindMe![18362:1579049] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/F24F54B8-F02B-4EEA-B24F-756F6B3CE562/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:03:43.915 FindMe![18362:1579049] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:03:43.916 FindMe![18362:1579049] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:03:43.919 FindMe![18362:1579049] Unlimited access to network resources
+2015-06-24 17:03:44.010 FindMe![18362:1579049] [CDVTimer][keyboard] 0.059009ms
+2015-06-24 17:03:44.024 FindMe![18362:1579049] [CDVTimer][splashscreen] 14.764965ms
+2015-06-24 17:03:44.025 FindMe![18362:1579049] [CDVTimer][TotalPluginStartup] 15.149951ms
+2015-06-24 17:03:44.110 FindMe![18362:1579049] Resetting plugins due to page load.
+2015-06-24 17:03:44.276 FindMe![18362:1579049] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/2ADA8F91-8E60-4F46-978B-9631C57AD917/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:03:45.767 FindMe![18362:1579076] Camera.getPicture: source type 1 not available.
+2015-06-24 17:03:45.989 FindMe![18362:1579049] Device has no Camera!
+2015-06-24 17:04:26.565 FindMe![18574:1580296] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/830B9113-2AC9-4745-B5BB-5D4FB0B4E399/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:04:26.704 FindMe![18574:1580296] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:04:26.705 FindMe![18574:1580296] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:04:26.708 FindMe![18574:1580296] Unlimited access to network resources
+2015-06-24 17:04:26.798 FindMe![18574:1580296] [CDVTimer][keyboard] 0.082016ms
+2015-06-24 17:04:26.815 FindMe![18574:1580296] [CDVTimer][splashscreen] 16.215980ms
+2015-06-24 17:04:26.815 FindMe![18574:1580296] [CDVTimer][TotalPluginStartup] 16.695976ms
+2015-06-24 17:04:26.901 FindMe![18574:1580296] Resetting plugins due to page load.
+2015-06-24 17:04:27.092 FindMe![18574:1580296] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/89233F7F-34CD-4A9C-83CA-81B9545F0B6B/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:04:27.910 FindMe![18574:1580311] Camera.getPicture: source type 1 not available.
+2015-06-24 17:04:27.984 FindMe![18574:1580296] Device has no Camera!
+2015-06-24 17:06:36.351 FindMe![18806:1582065] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/2C03BD6B-2C37-4800-B74E-F2AE150109BA/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:06:36.498 FindMe![18806:1582065] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:06:36.498 FindMe![18806:1582065] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:06:36.502 FindMe![18806:1582065] Unlimited access to network resources
+2015-06-24 17:06:36.595 FindMe![18806:1582065] [CDVTimer][keyboard] 0.091016ms
+2015-06-24 17:06:36.614 FindMe![18806:1582065] [CDVTimer][splashscreen] 18.729031ms
+2015-06-24 17:06:36.615 FindMe![18806:1582065] [CDVTimer][TotalPluginStartup] 19.385993ms
+2015-06-24 17:06:36.697 FindMe![18806:1582065] Resetting plugins due to page load.
+2015-06-24 17:06:36.900 FindMe![18806:1582065] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/F3FB7227-5399-472F-BC46-C24236AF40CE/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:06:37.939 FindMe![18806:1582075] Camera.getPicture: source type 1 not available.
+2015-06-24 17:06:38.173 FindMe![18806:1582065] Device has no Camera!
+2015-06-24 17:07:20.531 FindMe![19010:1583000] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/E88B041E-02B0-43DB-8E6B-C886C82CB52B/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:07:20.658 FindMe![19010:1583000] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:07:20.659 FindMe![19010:1583000] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:07:20.663 FindMe![19010:1583000] Unlimited access to network resources
+2015-06-24 17:07:20.768 FindMe![19010:1583000] [CDVTimer][keyboard] 0.066996ms
+2015-06-24 17:07:20.785 FindMe![19010:1583000] [CDVTimer][splashscreen] 16.742051ms
+2015-06-24 17:07:20.785 FindMe![19010:1583000] [CDVTimer][TotalPluginStartup] 17.157018ms
+2015-06-24 17:07:20.845 FindMe![19010:1583000] Resetting plugins due to page load.
+2015-06-24 17:07:21.036 FindMe![19010:1583000] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/3BCEF3EC-6F3E-41CB-9401-038990E56D94/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:07:29.610 FindMe![19010:1583002] Camera.getPicture: source type 1 not available.
+2015-06-24 17:07:29.854 FindMe![19010:1583000] Device has no Camera!
+2015-06-24 17:07:31.422 FindMe![19010:1583000] You are sure
+2015-06-24 17:08:54.596 FindMe![19236:1584061] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/6B0D0F19-9238-4791-A9EE-8EFB5BF26928/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:08:54.722 FindMe![19236:1584061] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:08:54.723 FindMe![19236:1584061] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:08:54.727 FindMe![19236:1584061] Unlimited access to network resources
+2015-06-24 17:08:54.829 FindMe![19236:1584061] [CDVTimer][keyboard] 0.051975ms
+2015-06-24 17:08:54.845 FindMe![19236:1584061] [CDVTimer][splashscreen] 15.299022ms
+2015-06-24 17:08:54.845 FindMe![19236:1584061] [CDVTimer][TotalPluginStartup] 15.688002ms
+2015-06-24 17:08:54.939 FindMe![19236:1584061] Resetting plugins due to page load.
+2015-06-24 17:08:55.126 FindMe![19236:1584061] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/1722AFC1-B45B-4EAB-AF57-C4EFE636827D/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:08:56.199 FindMe![19236:1584069] Camera.getPicture: source type 1 not available.
+2015-06-24 17:08:56.455 FindMe![19236:1584061] Device has no Camera!
+2015-06-24 17:09:02.265 FindMe![19236:1584061] Yes
+2015-06-24 17:09:35.326 FindMe![19439:1584768] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Data/Application/AD4EBF7D-28E5-483F-A7F5-06D65F2306EE/Library/Cookies/Cookies.binarycookies
+2015-06-24 17:09:35.459 FindMe![19439:1584768] Apache Cordova native platform version 3.8.0 is starting.
+2015-06-24 17:09:35.460 FindMe![19439:1584768] Multi-tasking -> Device: YES, App: YES
+2015-06-24 17:09:35.463 FindMe![19439:1584768] Unlimited access to network resources
+2015-06-24 17:09:35.557 FindMe![19439:1584768] [CDVTimer][keyboard] 0.054002ms
+2015-06-24 17:09:35.576 FindMe![19439:1584768] [CDVTimer][splashscreen] 18.328011ms
+2015-06-24 17:09:35.576 FindMe![19439:1584768] [CDVTimer][TotalPluginStartup] 18.711030ms
+2015-06-24 17:09:35.635 FindMe![19439:1584768] Resetting plugins due to page load.
+2015-06-24 17:09:35.834 FindMe![19439:1584768] Finished load of: file:///Users/Robin/Library/Developer/CoreSimulator/Devices/47608E4E-2E5A-47E3-AA62-64DA9A8EAE46/data/Containers/Bundle/Application/DBB71F39-7AA1-48F7-871A-934C07836551/FindMe!.app/www/index.html#/tab/offers
+2015-06-24 17:09:36.794 FindMe![19439:1584785] Camera.getPicture: source type 1 not available.
+2015-06-24 17:09:36.867 FindMe![19439:1584768] Device has no Camera!
+2015-06-24 17:09:54.500 FindMe![19439:1584768] Yes
+2015-06-24 17:10:08.803 FindMe![19439:1584976] Camera.getPicture: source type 1 not available.
+2015-06-24 17:10:09.005 FindMe![19439:1584768] Device has no Camera!
+2015-06-24 17:57:41.683 FindMe![19439:1588215] Terminating since there is no system app.
