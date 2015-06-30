@@ -6,23 +6,29 @@ navigation history that also transitions its views in and out.
 <ion-tabs class="tabs-icon-top tabs-color-active-positive">
 
   <!-- Dashboard Tab -->
-  <ion-tab title="Offers" icon-off="ion-alert" icon-on="ion-ios-pulse-strong" href="#/tab/offers">
+  <ion-tab title="Offers" icon="ion-alert" href="#/tab/offers">
     <ion-nav-view name="tab-offers"></ion-nav-view>
   </ion-tab>
 
   <!-- Histories Tab -->
-  <ion-tab title="History" icon-off="ion-document-text" icon-on="ion-ios-chatboxes" href="#/tab/histories">
+  <ion-tab title="History" icon="ion-document-text" href="#/tab/histories">
     <ion-nav-view name="tab-histories"></ion-nav-view>
   </ion-tab>
 
   <!-- Account Tab -->
-  <ion-tab title="Account" icon-off="ion-gear-a" icon-on="ion-ios-gear" href="#/tab/account">
-    <ion-nav-view name="tab-account"></ion-nav-view>
+  <ion-tab title="Options" icon="ion-gear-a" href="#/tab/options">
+    <ion-nav-view name="tab-options"></ion-nav-view>
   </ion-tab>
 
     <!-- Camera Tab -->
-  <ion-tab title="Camera" icon-off="ion-camera" icon-on="ion-ios-gear" href="#/tab/camera" ng-click="getPicture()">
+  <ion-tab title="Camera" icon="ion-camera" href="#/tab/camera">
     <ion-nav-view name="tab-camera"></ion-nav-view>
   </ion-tab>
+
+      <!-- Acount Tab -->
+  <ion-tab title="Account" icon="ion-home" href="#/tab/account">
+    <ion-nav-view name="tab-account"></ion-nav-view>
+  </ion-tab>
+
 
 </ion-tabs>

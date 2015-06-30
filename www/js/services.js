@@ -9,103 +9,60 @@ angular.module('FindMe.services', [])
     name: 'Mädchen Flohmarkt',
     city: 'Stuttgart',
     maxValue: '20',
-    currentValue: '14',
+    currentValue: '17',
     type: 'Group',
     coupon: 'Kostenlose Stilberatung',
     logo: 'img/maedchenflohmarkt_logo.jpg',
     tasks: [
     {
-      todo: 'Foto von Auto'
+      todo: 'Ein Rotes Kleid',
+      me: false,
+      friend: false,
+      id: 1
     },
      {
-      todo: 'Foto von Auto'
+      todo: 'Gefällt mir drücken auf Facebook Seite',
+      me: true,
+      friend: false,
+      id: 2
     },
      {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    }]
+      todo: 'Account auf Homepage erstellen',
+      me: true,
+      friend: false,
+      id: 3
+    }],
+    QRCode: ''
   },{
     id: 0,
     name: 'Objectz',
     city: 'Stuttgart',
     maxValue: '10',
-    currentValue: '2',
+    currentValue: '8',
     type: 'Solo',
     coupon: '5€ Gutschein',
     logo: 'img/objectz_logo.jpg',
     tasks: [
     {
-      todo: 'Foto von Auto'
+      todo: 'Rotes Möbelstück',
+      id: 1
     },
      {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    }]
+      todo: 'Blaue Krawatte',
+      id: 2
+    }],
+    QRCode: ''
   }, {
     id: 1,
     name: 'Super Juju',
     city: 'Stuttgart',
     maxValue: '10',
-    currentValue: '0',
+    currentValue: '10',
     type: 'Solo',
     coupon: 'Kostenlose Postkarte',
     logo: 'img/superjuju_logo.jpg',
-    tasks: [
-    {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    },
-     {
-      todo: 'Foto von Auto'
-    }]
+    tasks: [],
+    QRCode: 'img/QR-Code.jpg'
   }];
 
   return {

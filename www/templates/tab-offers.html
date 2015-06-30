@@ -1,14 +1,15 @@
 <ion-view view-title="Offers">
   <ion-content>
       <ion-list>
-      <ion-item ng-repeat="history in histories" href="#/tab/offers/{{history.id}}">
+      <a class="item Offer item-icon-right" ng-repeat="history in histories"  href="#/tab/offers/{{history.id}}">
       <img ng-src="{{history.logo}}">
         <h2>{{history.name}}</h2>
         <p>{{history.coupon}}</p>
         <p>{{history.currentValue}}/{{history.maxValue}}</p>
         <p>{{history.type}}</p>
         <p>{{history.city}}</p>
-      </ion-item>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </a>
     </ion-list>
 
   </ion-content>

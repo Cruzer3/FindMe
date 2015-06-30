@@ -6,15 +6,14 @@
 -->
 <ion-view view-title="{{history.name}}">
   <ion-content class="padding">
-    <img ng-src="{{history.logo}}" style="width: auto; height: 64px">
-<div class="card">
-  <div class="item item-text-wrap">
+    <img ng-src="{{history.logo}}" style="width: auto; height: 100px">
+<div class="card historyDetail">
       <p>{{history.name}}</p>
       <p>{{history.city}}</p>
       <p>{{history.currentValue}}/{{history.maxValue}}</p>
       <p>{{history.type}}</p>
       <p>{{history.coupon}}</p>
-  </div>
 </div>
+<img ng-src="{{history.QRCode}}" style="width: auto; height: 200px">
   </ion-content>
 </ion-view>

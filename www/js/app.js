@@ -78,7 +78,17 @@ angular.module('FindMe', ['ionic', 'FindMe.controllers', 'FindMe.services'])
       }
     })
 
-  .state('tab.account', {
+  .state('tab.options', {
+    url: '/options',
+    views: {
+      'tab-options': {
+        templateUrl: 'templates/tab-options.html',
+        controller: 'OptionsCtrl'
+      }
+    }
+  })
+
+    .state('tab.account', {
     url: '/account',
     views: {
       'tab-account': {

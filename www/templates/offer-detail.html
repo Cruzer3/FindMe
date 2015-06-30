@@ -7,22 +7,25 @@
 <ion-view view-title="{{history.name}}">
   <ion-content class="padding">
 
-<button class="button button-block button-light" ng-click="showConfirm()">
+<button class="button button-block button-light" ng-click="showConfirm()" ng-show="show() == 'show'">
   Add Friend
 </button>
 
-    <img ng-src="{{history.logo}}" style="width: auto; height: 64px">
+    <img ng-src="{{history.logo}}" style="width: auto; height: 100px">
 
 
-<div class="card">
+<div class="card offer-detail">
         <p>{{history.name}}</p>
       <p>{{history.task_1}}</p>
       <p>{{history.maxValue - history.currentValue}} Tasks Left</p>
       <p>{{history.type}}</p>
-  <ion-item ng-repeat="x in history.tasks" class="item item-text-wrap" ng-click="getPicture()">
-      <p>{{x.todo}}</p>
-  </ion-item>
+  <a class="item item-avatar" ng-repeat="x in history.tasks" ng-click="getPicture()">
+  <i class="icon ion-person-add" ng-show="show({{x.id}}) == 'show'"></i>
+      <p1>{{x.todo}}</p1>
+  </a>
 </div>
+
+<img ng-src="{{history.QRCode}}" style="width: auto; height: 200px">
   </ion-content>
 </ion-view>
 

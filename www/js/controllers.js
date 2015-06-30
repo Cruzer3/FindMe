@@ -8,6 +8,38 @@ angular.module('FindMe.controllers', ['ngCordova'])
   }
 })
 
+.controller('AccountCtrl', function($scope, $ionicPopup) {
+
+   $scope.showConfirmGet = function() {
+   var confirmPopup = $ionicPopup.confirm({
+     title: 'Get New Offers',
+     template: 'Are you sure you want to load all new Offers into your List?'
+   });
+   confirmPopup.then(function(res) {
+     if(res) {
+       console.log('Yes');
+     } else {
+       console.log('No');
+     }
+   });
+ }
+
+    $scope.showConfirmDelete = function() {
+   var confirmPopup = $ionicPopup.confirm({
+     title: 'Delete Offers',
+     template: 'Are you sure you want to delete all offers forever?'
+   });
+   confirmPopup.then(function(res) {
+     if(res) {
+       console.log('Yes');
+     } else {
+       console.log('No');
+     }
+   });
+ }
+
+})
+
 .controller('HistoriesCtrl', function($scope, Histories) {
   // With the new view caching in Ionic, Controllers are only called
   // when they are recreated or on app start, instead of every page change.
@@ -29,6 +61,16 @@ angular.module('FindMe.controllers', ['ngCordova'])
 
 .controller('OfferDetailCtrl', function($ionicPopup, $scope, $stateParams, Histories, $cordovaCamera) {
   $scope.history = Histories.get($stateParams.offerId);
+
+  $scope.show = function(id){
+    var show = "dont show";
+    if($scope.history.type == "Group"){
+      if($scope.history.tasks[id-1].me == true){
+    show = "show";
+    }
+    }
+    return show;
+};
 
   document.addEventListener("deviceready", function () {
 
@@ -53,6 +95,7 @@ angular.module('FindMe.controllers', ['ngCordova'])
     });
 
   }, false);
+
 
 
    $scope.showConfirm = function() {
@@ -99,5 +142,20 @@ angular.module('FindMe.controllers', ['ngCordova'])
   }, false);
 })
 
-.controller('AccountCtrl',function($scope) {
+.controller('OptionsCtrl',function($scope) {
+  $scope.settings = {
+    filterOne: true
+  };
+    $scope.settings = {
+    filterTwo: true
+  };
+    $scope.settings = {
+    filterThree: true
+  };
+    $scope.settings = {
+    filterFour: true
+  };
+    $scope.settings = {
+    City: true
+  };
 });

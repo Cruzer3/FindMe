@@ -15,3 +15,91 @@ img {
     height: 74px;
     padding: 10px;
 }
+
+.item-avatar i:first-child, .item-avatar .item-img {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    font-size: 36px;
+    max-width: 40px;
+    max-height: 40px;
+    width: 100%;
+    border-radius: 4px; }
+
+.scroll-content{
+  background-image: url('/img/css/black.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card.historyDetail{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: black; 
+}
+
+.item.history{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: black; 
+}
+
+.item-remove-animate.item-trns{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: white; 
+}
+
+.item.item-checkbox {
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: blue; 
+}
+
+.item.account{
+    border-color: rgba(1, 23, 5, 1);
+    background-color: rgba(1, 23, 5, 1);
+    color: blue; 
+}
+
+.button.button-block.button-dark{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 1);
+    color: white; 
+}
+.button.button-full.button-dark {
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 1);
+    color: white; 
+}
+
+.button.button-block.button-light{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 1);
+    color: white; 
+}
+
+.card.offer-detail{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: black; 
+}
+
+.item.item-avatar{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: black; 
+}
+
+.item.Offer{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: black; 
+}
+
+
+.item.item-radio{
+    border-color: rgba(0, 0, 0, 0);
+    background-color: rgba(0, 0, 0, 0);
+    color: red; 
+}
