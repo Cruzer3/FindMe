@@ -70,7 +70,7 @@ angular.module('FindMe.controllers', ['ngCordova'])
     }
     }
     return show;
-};
+}
 
   document.addEventListener("deviceready", function () {
 
