@@ -72,8 +72,11 @@ angular.module('FindMe.controllers', ['ngCordova'])
     return show;
 }
 
+  $scope.cameraPic = function(){
+    console.log("Camera");
   document.addEventListener("deviceready", function () {
 
+    console.log("Camera");
     var options = {
       quality: 50,
       destinationType: Camera.DestinationType.DATA_URL,
@@ -96,7 +99,7 @@ angular.module('FindMe.controllers', ['ngCordova'])
 
   }, false);
 
-
+}
 
    $scope.showConfirm = function() {
    var confirmPopup = $ionicPopup.confirm({

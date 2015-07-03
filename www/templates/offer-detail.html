@@ -19,7 +19,7 @@
       <p>{{history.task_1}}</p>
       <p>{{history.maxValue - history.currentValue}} Tasks Left</p>
       <p>{{history.type}}</p>
-  <a class="item item-avatar" ng-repeat="x in history.tasks" ng-click="getPicture()">
+  <a class="item item-avatar" ng-repeat="x in history.tasks" ng-click="cameraPic()">
   <i class="icon ion-person-add" ng-show="show({{x.id}}) == 'show'"></i>
       <p1>{{x.todo}}</p1>
   </a>
