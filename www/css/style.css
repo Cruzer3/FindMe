@@ -19,6 +19,10 @@ img {
 .pane{
  background-image: url('../img/base.png');
 }
+
+.rand{
+  padding-top: 60px;
+}
 /*
 .item-avatar i:first-child, .item-avatar .item-img {
     position: absolute;

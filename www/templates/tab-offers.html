@@ -1,5 +1,6 @@
 <ion-view view-title="Offers">
   <ion-content class="pane">
+<div class="rand">
       <ion-list>
       <a class="item Offer item-icon-right" ng-repeat="history in histories"  href="#/tab/offers/{{history.id}}">
       <img ng-src="{{history.logo}}">
@@ -11,6 +12,6 @@
         <i class="icon ion-chevron-right icon-accessory"></i>
       </a>
     </ion-list>
-
+</div>
   </ion-content>
 </ion-view>
